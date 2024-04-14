@@ -3,7 +3,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=appveyor"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=appveyor"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-FFF?style=flat&logo=appveyor"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-#339933?style=for-the-badge&logo=appveyor"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=appveyor"/></a>
 
 
 <!--
