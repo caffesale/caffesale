@@ -2,7 +2,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Next.js?style=flat&logo=appveyor"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=appveyor"/></a>
-<a href=""><img src="https://img.shields.io/badge/#61DAFB?style=flat&logo=appveyor"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-61DAFB?style=flat&logo=appveyor"/></a>
 <a href=""><img src="https://img.shields.io/badge/#61DAFB?style=flat&logo=appveyor"/></a>
 <a href=""><img src="https://img.shields.io/badge/#61DAFB?style=flat&logo=appveyor"/></a>
 
