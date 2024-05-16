@@ -23,7 +23,11 @@
 
 
 
-## TIL
+## TIL: 2024.05.16
+ 
+- [적절한 스토리 추상화 정도](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A0%81%EC%A0%88%ED%95%9C+%EC%8A%A4%ED%86%A0%EB%A6%AC+%EC%B6%94%EC%83%81%ED%99%94+%EC%A0%95%EB%8F%84)
+- [버릴 수 있는 스토리](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B2%84%EB%A6%B4+%EC%88%98+%EC%9E%88%EB%8A%94+%EC%8A%A4%ED%86%A0%EB%A6%AC)
+- [스토리 수집하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8A%A4%ED%86%A0%EB%A6%AC+%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
 
 오늘의 학습내용을 정리하는 섹션입니다.
 
