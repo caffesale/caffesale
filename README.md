@@ -21,15 +21,21 @@
 
 ## 최근 블로그 포스트
 
+작성한 Zettel을 취합해 일주일에 한 번 포스트를 작성합니다.
 
 
-## TIL: 2024.05.16
- 
+## TIL
+
+Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다.
+
+### 2024.05.17
+
+- [대리사용자](https://publish.obsidian.md/my-para-til/000_ZettelKasten/UserProxy+-+%EB%8C%80%EB%A6%AC%EC%82%AC%EC%9A%A9%EC%9E%90)
+
+### 2024.05.16
 - [적절한 스토리 추상화 정도](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A0%81%EC%A0%88%ED%95%9C+%EC%8A%A4%ED%86%A0%EB%A6%AC+%EC%B6%94%EC%83%81%ED%99%94+%EC%A0%95%EB%8F%84)
 - [버릴 수 있는 스토리](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B2%84%EB%A6%B4+%EC%88%98+%EC%9E%88%EB%8A%94+%EC%8A%A4%ED%86%A0%EB%A6%AC)
 - [스토리 수집하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8A%A4%ED%86%A0%EB%A6%AC+%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
-
-오늘의 학습내용을 정리하는 섹션입니다.
 
 <!--
 **caffesale/caffesale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
