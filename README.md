@@ -28,6 +28,11 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다.
 
+### 2024.05.19
+
+- [요구사항에서 나는 냄새](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%97%90%EC%84%9C+%EB%82%98%EB%8A%94+%EB%83%84%EC%83%88)
+- [애자일에서 요구사항을 다루는 방식](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90%EC%84%9C+%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EC%8B%9D)
+
 ### 2024.05.17
 
 - [대리사용자](https://publish.obsidian.md/my-para-til/000_ZettelKasten/UserProxy+-+%EB%8C%80%EB%A6%AC%EC%82%AC%EC%9A%A9%EC%9E%90)
