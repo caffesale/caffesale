@@ -28,31 +28,8 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다.
 
-### 2024.05.19
+### 2024.05.20
 
-- [요구사항에서 나는 냄새](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%97%90%EC%84%9C+%EB%82%98%EB%8A%94+%EB%83%84%EC%83%88)
-- [애자일에서 요구사항을 다루는 방식](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90%EC%84%9C+%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EC%8B%9D)
-
-### 2024.05.17
-
-- [대리사용자](https://publish.obsidian.md/my-para-til/000_ZettelKasten/UserProxy+-+%EB%8C%80%EB%A6%AC%EC%82%AC%EC%9A%A9%EC%9E%90)
-
-### 2024.05.16
-- [적절한 스토리 추상화 정도](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A0%81%EC%A0%88%ED%95%9C+%EC%8A%A4%ED%86%A0%EB%A6%AC+%EC%B6%94%EC%83%81%ED%99%94+%EC%A0%95%EB%8F%84)
-- [버릴 수 있는 스토리](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B2%84%EB%A6%B4+%EC%88%98+%EC%9E%88%EB%8A%94+%EC%8A%A4%ED%86%A0%EB%A6%AC)
-- [스토리 수집하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8A%A4%ED%86%A0%EB%A6%AC+%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
-
-<!--
-**caffesale/caffesale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [의존성 역전](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%98%EC%A1%B4%EC%84%B1+%EC%97%AD%EC%A0%84)
+- [애자일 방법론에서 인수테스트가 가지는 의미](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC+%EB%B0%A9%EB%B2%95%EB%A1%A0%EC%9D%98+%EC%9D%B8%EC%88%98%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80+%EA%B0%80%EC%A7%80%EB%8A%94+%EC%9D%98%EB%AF%B8
+)
