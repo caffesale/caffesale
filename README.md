@@ -28,6 +28,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다.
 
+### 2024.05.21
+
+- [유비쿼터스 언어와 메타포](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4+%EC%96%B8%EC%96%B4%EC%99%80+%EB%A9%94%ED%83%80%ED%8F%AC+-+%EA%B0%81%EA%B0%81+DDD%2C+Aglie+%EC%9A%A9%EC%96%B4)
+
 ### 2024.05.20
 
 - [의존성 역전](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%98%EC%A1%B4%EC%84%B1+%EC%97%AD%EC%A0%84)
