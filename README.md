@@ -23,6 +23,8 @@
 
 작성한 Zettel을 취합해 일주일에 한 번 포스트를 작성합니다.
 
+- [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
+
 
 ## TIL
 
