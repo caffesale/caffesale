@@ -28,7 +28,13 @@
 
 ## TIL
 
-Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다.
+Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 매주 월요일마다 초기화합니다.
+
+### 2024.05.23
+
+- [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
+- [사용자 스토리](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%8A%A4%ED%86%A0%EB%A6%AC)
+
 
 ### 2024.05.21
 
