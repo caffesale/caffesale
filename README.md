@@ -30,6 +30,14 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 매주 월요일마다 초기화합니다.
 
+### 2024.05.25
+
+- [품질을 떨어뜨리면 더 빨라질 수 있나?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%92%88%EC%A7%88%EC%9D%84+%EB%96%A8%EC%96%B4%EB%9C%A8%EB%A6%AC%EB%A9%B4+%EB%8D%94+%EB%B9%A8%EB%9D%BC%EC%A7%88+%EC%88%98+%EC%9E%88%EB%82%98%3F)
+
+### 2024.05.24
+
+- [티핑 포인트](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%8B%B0%ED%95%91+%ED%8F%AC%EC%9D%B8%ED%8A%B8+-+12%EC%99%80+150)
+
 ### 2024.05.23
 
 - [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
