@@ -33,6 +33,7 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 ### 2024.05.25
 
 - [품질을 떨어뜨리면 더 빨라질 수 있나?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%92%88%EC%A7%88%EC%9D%84+%EB%96%A8%EC%96%B4%EB%9C%A8%EB%A6%AC%EB%A9%B4+%EB%8D%94+%EB%B9%A8%EB%9D%BC%EC%A7%88+%EC%88%98+%EC%9E%88%EB%82%98%3F)
+- [애자일에 대한 흔한 오해](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90+%EB%8C%80%ED%95%9C+%ED%9D%94%ED%95%9C+%EC%98%A4%ED%95%B4)
 
 ### 2024.05.24
 
