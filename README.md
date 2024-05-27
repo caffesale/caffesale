@@ -24,33 +24,13 @@
 작성한 Zettel을 취합해 일주일에 한 번 포스트를 작성합니다.
 
 - [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
+- [애자일 시리즈(2) - 애자일 소개하기](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%882-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0)
 
 
 ## TIL
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 매주 월요일마다 초기화합니다.
 
-### 2024.05.25
+### 2024.05.27
 
-- [품질을 떨어뜨리면 더 빨라질 수 있나?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%92%88%EC%A7%88%EC%9D%84+%EB%96%A8%EC%96%B4%EB%9C%A8%EB%A6%AC%EB%A9%B4+%EB%8D%94+%EB%B9%A8%EB%9D%BC%EC%A7%88+%EC%88%98+%EC%9E%88%EB%82%98%3F)
-- [애자일에 대한 흔한 오해](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90+%EB%8C%80%ED%95%9C+%ED%9D%94%ED%95%9C+%EC%98%A4%ED%95%B4)
-
-### 2024.05.24
-
-- [티핑 포인트](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%8B%B0%ED%95%91+%ED%8F%AC%EC%9D%B8%ED%8A%B8+-+12%EC%99%80+150)
-
-### 2024.05.23
-
-- [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
-- [사용자 스토리](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%8A%A4%ED%86%A0%EB%A6%AC)
-
-
-### 2024.05.21
-
-- [유비쿼터스 언어와 메타포](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4+%EC%96%B8%EC%96%B4%EC%99%80+%EB%A9%94%ED%83%80%ED%8F%AC+-+%EA%B0%81%EA%B0%81+DDD%2C+Aglie+%EC%9A%A9%EC%96%B4)
-
-### 2024.05.20
-
-- [의존성 역전](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%98%EC%A1%B4%EC%84%B1+%EC%97%AD%EC%A0%84)
-- [애자일 방법론에서 인수테스트가 가지는 의미](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC+%EB%B0%A9%EB%B2%95%EB%A1%A0%EC%9D%98+%EC%9D%B8%EC%88%98%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80+%EA%B0%80%EC%A7%80%EB%8A%94+%EC%9D%98%EB%AF%B8
-)
+- []()
