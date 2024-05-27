@@ -33,4 +33,4 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 
 ### 2024.05.27
 
-- []()
+- [검색 과정을 탐색 과정으로 바꾸기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B2%80%EC%83%89%EA%B3%BC%EC%A0%95%EC%9D%84+%ED%83%90%EC%83%89%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C+%EB%B0%94%EA%BE%B8%EA%B8%B0)
