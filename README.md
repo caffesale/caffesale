@@ -31,6 +31,11 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 매주 월요일마다 초기화합니다.
 
+### 2024.05.28
+
+- [물 흐르듯이 이어지는 SDLC](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AC%BC+%ED%9D%90%EB%A5%B4%EB%93%AF%EC%9D%B4+%EC%9D%B4%EC%96%B4%EC%A7%80%EB%8A%94+SDLC)
+- [컴퓨터 네트워크 시작하기](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%BB%B4%ED%93%A8%ED%84%B0+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC+%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+
 ### 2024.05.27
 
 - [검색 과정을 탐색 과정으로 바꾸기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B2%80%EC%83%89%EA%B3%BC%EC%A0%95%EC%9D%84+%ED%83%90%EC%83%89%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C+%EB%B0%94%EA%BE%B8%EA%B8%B0)
