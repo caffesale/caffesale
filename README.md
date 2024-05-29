@@ -31,6 +31,12 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 매주 월요일마다 초기화합니다.
 
+### 2024.05.29
+
+- [이더넷 규격](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%AC%BC%EB%A6%AC+%EA%B3%84%EC%B8%B5%EA%B3%BC+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%A7%81%ED%81%AC+%EA%B3%84%EC%B8%B5/%EC%9D%B4%EB%8D%94%EB%84%B7+%EA%B7%9C%EA%B2%A9)
+- [허브와 스위치](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%AC%BC%EB%A6%AC+%EA%B3%84%EC%B8%B5%EA%B3%BC+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%A7%81%ED%81%AC+%EA%B3%84%EC%B8%B5/%ED%97%88%EB%B8%8C%EC%99%80+%EC%8A%A4%EC%9C%84%EC%B9%98)
+- [NIC와 케이블](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%AC%BC%EB%A6%AC+%EA%B3%84%EC%B8%B5%EA%B3%BC+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%A7%81%ED%81%AC+%EA%B3%84%EC%B8%B5/NIC%EC%99%80+%EC%BC%80%EC%9D%B4%EB%B8%94)
+
 ### 2024.05.28
 
 - [물 흐르듯이 이어지는 SDLC](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AC%BC+%ED%9D%90%EB%A5%B4%EB%93%AF%EC%9D%B4+%EC%9D%B4%EC%96%B4%EC%A7%80%EB%8A%94+SDLC)
