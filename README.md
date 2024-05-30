@@ -36,6 +36,7 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 - [케이크 자르기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%BC%80%EC%9D%B4%ED%81%AC+%EC%9E%90%EB%A5%B4%EA%B8%B0)
 - [IP주소 더 알아보기](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC+%EA%B3%84%EC%B8%B5/IP+%EC%A3%BC%EC%86%8C+%EB%8D%94+%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [LAN을 넘어선 네트워크 통신](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC+%EA%B3%84%EC%B8%B5/LAN%EC%9D%84+%EB%84%98%EC%96%B4%EC%84%A0+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC+%ED%86%B5%EC%8B%A0)
+- [라우팅](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC+%EA%B3%84%EC%B8%B5/%EB%9D%BC%EC%9A%B0%ED%8C%85)
 
 ### 2024.05.29
 
