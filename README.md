@@ -31,6 +31,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.05.31
+
+- [영향력은 당근과 채찍으로 퍼지지 않는다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%98%81%ED%96%A5%EB%A0%A5%EC%9D%80+%EB%8B%B9%EA%B7%BC%EA%B3%BC+%EC%B1%84%EC%B0%8D%EC%9C%BC%EB%A1%9C+%ED%8D%BC%EC%A7%80%EC%A7%80+%EC%95%8A%EB%8A%94%EB%8B%A4)
+
 ### 2024.05.30
 
 - [케이크 자르기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%BC%80%EC%9D%B4%ED%81%AC+%EC%9E%90%EB%A5%B4%EA%B8%B0)
