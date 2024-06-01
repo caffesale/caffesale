@@ -35,6 +35,7 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 
 - [깨진 유리창보다 자세하게](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B9%A8%EC%A7%84+%EC%9C%A0%EB%A6%AC%EC%B0%BD%EB%B3%B4%EB%8B%A4+%EC%9E%90%EC%84%B8%ED%95%98%EA%B2%8C)
 - [7과 12와 150](https://publish.obsidian.md/my-para-til/000_ZettelKasten/7%EA%B3%BC+12%EC%99%80+150)
+- [집단 1과 2](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%91%EB%8B%A8+1%EA%B3%BC+2)
 
 ### 2024.05.31
 
