@@ -31,6 +31,12 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.02
+
+- [포트](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A0%84%EC%86%A1+%EA%B3%84%EC%B8%B5/%ED%8F%AC%ED%8A%B8)
+- [TCP와 UDP](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A0%84%EC%86%A1+%EA%B3%84%EC%B8%B5/TCP%EC%99%80+UDP)
+- [TCP의 오류, 흐름, 혼잡제어](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A0%84%EC%86%A1+%EA%B3%84%EC%B8%B5/TCP%EC%9D%98+%EC%98%A4%EB%A5%98%2C+%ED%9D%90%EB%A6%84%2C+%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
+
 ### 2024.06.01
 
 - [깨진 유리창보다 자세하게](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B9%A8%EC%A7%84+%EC%9C%A0%EB%A6%AC%EC%B0%BD%EB%B3%B4%EB%8B%A4+%EC%9E%90%EC%84%B8%ED%95%98%EA%B2%8C)
