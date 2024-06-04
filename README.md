@@ -31,6 +31,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.04
+
+- [사용자 역할 모델링](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%97%AD%ED%95%A0+%EB%AA%A8%EB%8D%B8%EB%A7%81)
+
 ### 2024.06.03
 
 - [시스템 1과 2](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8B%9C%EC%8A%A4%ED%85%9C+1%EA%B3%BC+2)
