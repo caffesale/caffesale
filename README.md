@@ -25,11 +25,17 @@
 
 - [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
 - [애자일 시리즈(2) - 애자일 소개하기](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%882-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0)
+- [애자일 시리즈(3) - 스토리와 백로그](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%883-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%99%80-%EB%B0%B1%EB%A1%9C%EA%B7%B8)
 
 
 ## TIL
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
+
+### 2024.06.05
+
+- [스프링 개념 파트](https://publish.obsidian.md/my-para-til/Project/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC_%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EC%8A%A4%ED%94%84%EB%A7%81+%EA%B0%9C%EB%85%90+%ED%8C%8C%ED%8A%B8)
+- [스프링 실 사용 파트](https://publish.obsidian.md/my-para-til/Project/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC_%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EC%8A%A4%ED%94%84%EB%A7%81+%EC%8B%A4+%EC%82%AC%EC%9A%A9+%ED%8C%8C%ED%8A%B8)
 
 ### 2024.06.04
 
