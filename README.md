@@ -32,6 +32,12 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.06
+
+- [자원](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%91%EC%9A%A9+%EA%B3%84%EC%B8%B5/%EC%9E%90%EC%9B%90)
+- [DNS](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%91%EC%9A%A9+%EA%B3%84%EC%B8%B5/DNS)
+- [DNS 레코드 타입](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%91%EC%9A%A9+%EA%B3%84%EC%B8%B5/DNS+%EB%A0%88%EC%BD%94%EB%93%9C+%ED%83%80%EC%9E%85)
+
 ### 2024.06.05
 
 - [스프링 개념 파트](https://publish.obsidian.md/my-para-til/Project/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC_%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EC%8A%A4%ED%94%84%EB%A7%81+%EA%B0%9C%EB%85%90+%ED%8C%8C%ED%8A%B8)
