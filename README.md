@@ -35,6 +35,8 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 ### 2024.06.10
 
 - [왜 백엔드는 MVC이고 프론트는 MVVM, Flux인가?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%99%9C+%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94+MVC%EC%9D%B4%EA%B3%A0+%ED%94%84%EB%A1%A0%ED%8A%B8%EB%8A%94+MVVM%2C+Flux%EC%9D%B8%EA%B0%80%3F)
+- [서블릿](https://publish.obsidian.md/my-para-til/Project/%EC%8A%A4%ED%94%84%EB%A7%81MVC-%EC%A0%84%ED%8E%B8/%EC%84%9C%EB%B8%94%EB%A6%BF)
+- [웹 애플리케이션의 이해](https://publish.obsidian.md/my-para-til/Project/%EC%8A%A4%ED%94%84%EB%A7%81MVC-%EC%A0%84%ED%8E%B8/%EC%9B%B9+%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98+%EC%9D%B4%ED%95%B4)
 
 ### 2024.06.07
 
