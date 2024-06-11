@@ -32,6 +32,11 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.11
+
+- [HTTP 헤더와 기반 기술](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%91%EC%9A%A9+%EA%B3%84%EC%B8%B5/HTTP+%ED%97%A4%EB%8D%94%EC%99%80+%EA%B8%B0%EB%B0%98+%EA%B8%B0%EC%88%A0)
+- [캐시, 쿠키, 컨텐츠 협상관련 헤더](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%91%EC%9A%A9+%EA%B3%84%EC%B8%B5/%EC%BA%90%EC%8B%9C%2C+%EC%BF%A0%ED%82%A4%2C+%EC%BB%A8%ED%85%90%EC%B8%A0+%ED%98%91%EC%83%81%EA%B4%80%EB%A0%A8+%ED%97%A4%EB%8D%94)
+
 ### 2024.06.10
 
 - [왜 백엔드는 MVC이고 프론트는 MVVM, Flux인가?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%99%9C+%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94+MVC%EC%9D%B4%EA%B3%A0+%ED%94%84%EB%A1%A0%ED%8A%B8%EB%8A%94+MVVM%2C+Flux%EC%9D%B8%EA%B0%80%3F)
