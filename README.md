@@ -32,6 +32,11 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.13
+
+- [스프링MVC 기본 기능 - Controller](https://publish.obsidian.md/my-para-til/Project/%EC%8A%A4%ED%94%84%EB%A7%81MVC-%EC%A0%84%ED%8E%B8/%EC%8A%A4%ED%94%84%EB%A7%81MVC+%EA%B8%B0%EB%B3%B8+%EA%B8%B0%EB%8A%A5+-+Controller)
+- [후광 효과에 대항하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%9B%84%EA%B4%91+%ED%9A%A8%EA%B3%BC%EC%97%90+%EB%8C%80%ED%95%AD%ED%95%98%EA%B8%B0)
+
 ### 2024.06.12
 
 - [안정성과 고가용성](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%B6%94%EA%B0%80+%ED%8C%8C%ED%8A%B8/%EC%95%88%EC%A0%95%EC%84%B1%EA%B3%BC+%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1)
