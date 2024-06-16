@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.16
+
+- [인과관계는 없다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84%EB%8A%94+%EC%97%86%EB%8B%A4)
+
 ### 2024.06.14
 
 -[네트워크 응용계층 문제](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%91%EC%9A%A9+%EA%B3%84%EC%B8%B5/Active+Recall)
