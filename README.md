@@ -23,6 +23,7 @@
 
 작성한 Zettel을 취합해 일주일에 한 번 포스트를 작성합니다.
 
+- [HTTP/3가 해결하려는 문제](https://velog.io/@pglibrary80/HTTP3%EA%B0%80-%ED%95%B4%EA%B2%B0%ED%95%98%EB%A0%A4%EB%8A%94-%EB%AC%B8%EC%A0%9C)
 - [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
 - [애자일 시리즈(2) - 애자일 소개하기](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%882-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0)
 - [애자일 시리즈(3) - 스토리와 백로그](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%883-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%99%80-%EB%B0%B1%EB%A1%9C%EA%B7%B8)
@@ -38,12 +39,12 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 
 ### 2024.06.16
 
-- [인과관계는 없다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84%EB%8A%94+%EC%97%86%EB%8B%A4)
+- [인과관계는 없다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84%EB%8A%94+%EC%97%86%EB%8B%A4)
 
 ### 2024.06.14
 
--[네트워크 응용계층 문제](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%91%EC%9A%A9+%EA%B3%84%EC%B8%B5/Active+Recall)
--[네트워크 추가 문제](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%B6%94%EA%B0%80+%ED%8C%8C%ED%8A%B8/Active+Recall)
+- [네트워크 응용계층 문제](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%91%EC%9A%A9+%EA%B3%84%EC%B8%B5/Active+Recall)
+- [네트워크 추가 문제](https://publish.obsidian.md/my-para-til/Project/%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%B6%94%EA%B0%80+%ED%8C%8C%ED%8A%B8/Active+Recall)
 
 ### 2024.06.13
 
