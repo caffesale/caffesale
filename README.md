@@ -21,8 +21,6 @@
 
 ## 최근 블로그 포스트
 
-작성한 Zettel을 취합해 일주일에 한 번 포스트를 작성합니다.
-
 - [HTTP/3가 해결하려는 문제](https://velog.io/@pglibrary80/HTTP3%EA%B0%80-%ED%95%B4%EA%B2%B0%ED%95%98%EB%A0%A4%EB%8A%94-%EB%AC%B8%EC%A0%9C)
 - [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
 - [애자일 시리즈(2) - 애자일 소개하기](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%882-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0)
