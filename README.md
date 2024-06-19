@@ -31,6 +31,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.19
+
+- [감정이라는 꼬리가 이성이라는 몸통을 흔든다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%90%EC%A0%95%EC%9D%B4%EB%9D%BC%EB%8A%94+%EA%BC%AC%EB%A6%AC%EA%B0%80+%EC%9D%B4%EC%84%B1%EC%9D%B4%EB%9D%BC%EB%8A%94+%EB%AA%B8%ED%86%B5%EC%9D%84+%ED%9D%94%EB%93%A0%EB%8B%A4)
+
 ### 2024.06.18
 
 - [회상 용이성이 주는 편향](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%9A%8C%EC%83%81%EC%9A%A9%EC%9D%B4%EC%84%B1%EC%9D%B4+%EC%A3%BC%EB%8A%94+%ED%8E%B8%ED%96%A5)
