@@ -31,6 +31,11 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.21
+
+- [가장 큰 낭비는 과잉 생산의 낭비다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%80%EC%9E%A5+%ED%81%B0+%EB%82%AD%EB%B9%84%EB%8A%94+%EA%B3%BC%EC%9E%89+%EC%83%9D%EC%82%B0%EC%9D%98+%EB%82%AD%EB%B9%84%EB%8B%A4)
+- [TDD를 적용하기 힘든 상황이 맞는가?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/TDD%EB%A5%BC+%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0+%ED%9E%98%EB%93%A0+%EC%83%81%ED%99%A9%EC%9D%B4+%EB%A7%9E%EB%8A%94%EA%B0%80%3F)
+
 ### 2024.06.20
 
 - [소프트웨어 개발의 메타포 - 건축과 가드닝](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4+%EA%B0%9C%EB%B0%9C%EC%9D%98+%EB%A9%94%ED%83%80%ED%8F%AC+-+%EA%B1%B4%EC%B6%95%EA%B3%BC+%EA%B0%80%EB%93%9C%EB%8B%9D)
