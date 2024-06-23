@@ -31,6 +31,16 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.23
+
+- [스프링이 트랜잭션을 다루는 방식
+](https://publish.obsidian.md/my-para-til/Project/%EC%9E%90%EB%B0%94_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EA%B0%95%EC%9D%98/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4+%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EC%8B%9D)
+- [스프링이 트랜잭션을 다루는 방식_2
+](https://publish.obsidian.md/my-para-til/Project/%EC%9E%90%EB%B0%94_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EA%B0%95%EC%9D%98/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4+%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EC%8B%9D_2)
+- [JDBC 이해](https://publish.obsidian.md/my-para-til/Project/%EC%9E%90%EB%B0%94_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EA%B0%95%EC%9D%98/JDBC+%EC%9D%B4%ED%95%B4)
+- [JDBC 직접 사용하기](https://publish.obsidian.md/my-para-til/Project/%EC%9E%90%EB%B0%94_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EA%B0%95%EC%9D%98/JDBC+%EC%A7%81%EC%A0%91+%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [자바 예외 이해](https://publish.obsidian.md/my-para-til/Project/%EC%9E%90%EB%B0%94_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EA%B0%95%EC%9D%98/%EC%9E%90%EB%B0%94+%EC%98%88%EC%99%B8+%EC%9D%B4%ED%95%B4)
+
 ### 2024.06.21
 
 - [가장 큰 낭비는 과잉 생산의 낭비다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%80%EC%9E%A5+%ED%81%B0+%EB%82%AD%EB%B9%84%EB%8A%94+%EA%B3%BC%EC%9E%89+%EC%83%9D%EC%82%B0%EC%9D%98+%EB%82%AD%EB%B9%84%EB%8B%A4)
