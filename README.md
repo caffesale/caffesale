@@ -41,7 +41,7 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 - [소프트웨어 개발의 메타포 - 건축과 가드닝](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4+%EA%B0%9C%EB%B0%9C%EC%9D%98+%EB%A9%94%ED%83%80%ED%8F%AC+-+%EA%B1%B4%EC%B6%95%EA%B3%BC+%EA%B0%80%EB%93%9C%EB%8B%9D)
 - [TDD의 세 가지 효용](https://publish.obsidian.md/my-para-til/000_ZettelKasten/TDD%EC%9D%98+%EC%84%B8+%EA%B0%80%EC%A7%80+%ED%9A%A8%EC%9A%A9)
 - [TDD 요약
-](https://publish.obsidian.md/my-para-til/Project/TDD/TDD+%EC%9A%94%EC%95%BD)
+](https://publish.obsidian.md/my-para-til/000_ZettelKasten/TDD+%EC%9A%94%EC%95%BD)
 
 ### 2024.06.19
 
