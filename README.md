@@ -31,6 +31,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.25
+
+-[직교성, 소프트웨어 품질](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%81%EA%B5%90%EC%84%B1%2C+%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4+%ED%92%88%EC%A7%88)
+
 ### 2024.06.24
 
 - [스크럼 팀의 성과를 생각할 때 고려해야 할 점](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8A%A4%ED%81%AC%EB%9F%BC+%ED%8C%80%EC%9D%98+%EC%84%B1%EA%B3%BC%EB%A5%BC+%EC%83%9D%EA%B0%81%ED%95%A0+%EB%95%8C+%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC+%ED%95%A0+%EC%A0%90)
