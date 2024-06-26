@@ -37,7 +37,7 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 
 ### 2024.06.25
 
--[직교성, 소프트웨어 품질](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%81%EA%B5%90%EC%84%B1%2C+%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4+%ED%92%88%EC%A7%88)
+- [직교성, 소프트웨어 품질](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%81%EA%B5%90%EC%84%B1%2C+%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4+%ED%92%88%EC%A7%88)
 
 ### 2024.06.24
 
