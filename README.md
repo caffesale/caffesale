@@ -31,6 +31,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.06.27
+
+- [품질은 요구사항의 일부다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%92%88%EC%A7%88%EC%9D%80+%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%9D%98+%EC%9D%BC%EB%B6%80%EB%8B%A4)
+
 ### 2024.06.26
 
 - [가역성, 상자를 열 용기가 있는가?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%80%EC%97%AD%EC%84%B1%2C+%EC%83%81%EC%9E%90%EB%A5%BC+%EC%97%B4+%EC%9A%A9%EA%B8%B0%EA%B0%80+%EC%9E%88%EB%8A%94%EA%B0%80%3F)
