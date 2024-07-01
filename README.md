@@ -25,6 +25,7 @@
 - [애자일 방법론의 이점](https://velog.io/@pglibrary80/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B8%EA%B0%80)
 - [애자일 시리즈(2) - 애자일 소개하기](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%882-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0)
 - [애자일 시리즈(3) - 스토리와 백로그](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%883-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%99%80-%EB%B0%B1%EB%A1%9C%EA%B7%B8)
+- [typescript와 zod의 의존관계 생각해보기](https://velog.io/@pglibrary80/typescript%EC%99%80-zod%EC%9D%98-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 
 ## TIL
