@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.07.03
+
+- [중복 다루기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A4%91%EB%B3%B5+%EB%8B%A4%EB%A3%A8%EA%B8%B0)
+
 ### 2024.07.02
 
 - [예광탄 - 위험우선관리와 가치우선관리](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%98%88%EA%B4%91%ED%83%84+-+%EC%9C%84%ED%97%98%EC%9A%B0%EC%84%A0%EA%B4%80%EB%A6%AC%EC%99%80+%EA%B0%80%EC%B9%98%EC%9A%B0%EC%84%A0%EA%B4%80%EB%A6%AC)
