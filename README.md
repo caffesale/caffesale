@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.07.04
+
+- [REST API TIP](https://publish.obsidian.md/my-para-til/Project/REST+API+QUICK+TIP)
+
 ### 2024.07.03
 
 - [중복 다루기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A4%91%EB%B3%B5+%EB%8B%A4%EB%A3%A8%EA%B8%B0)
