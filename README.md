@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.07.08
+
+- [기저율과 대표성의 대결](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B8%B0%EC%A0%80%EC%9C%A8%EA%B3%BC+%EB%8C%80%ED%91%9C%EC%84%B1%EC%9D%98+%EB%8C%80%EA%B2%B0)
+
 ### 2024.07.04
 
 - [REST API TIP](https://publish.obsidian.md/my-para-til/Project/REST+API+QUICK+TIP)
