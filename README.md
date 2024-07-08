@@ -35,6 +35,7 @@ Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리�
 ### 2024.07.08
 
 - [기저율과 대표성의 대결](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B8%B0%EC%A0%80%EC%9C%A8%EA%B3%BC+%EB%8C%80%ED%91%9C%EC%84%B1%EC%9D%98+%EB%8C%80%EA%B2%B0)
+- [왜, 언제 UML을 사용하나?](https://publish.obsidian.md/my-para-til/Project/UML_%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%EB%8A%94_%EC%9D%B4%EA%B2%83%EB%A7%8C_%EC%93%B4%EB%8B%A4/%EC%99%9C%2C+%EC%96%B8%EC%A0%9C+UML%EC%9D%84+%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC+%ED%95%98%EB%8A%94%EA%B0%80%3F)
 
 ### 2024.07.04
 
