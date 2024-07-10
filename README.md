@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.07.10
+
+- [운영체제와 프로세스&스레드](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80+%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%26%EC%8A%A4%EB%A0%88%EB%93%9C)
+
 ### 2024.07.09
 
 - [Authentication & Authorization](https://publish.obsidian.md/my-para-til/Project/%EC%9D%B8%EC%A6%9D%26%EC%9D%B8%EA%B0%80/Authentication+%26+Authorization)
