@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.07.12
+
+- [그래프 조건정리](https://publish.obsidian.md/my-para-til/AreaOfResponse/LeetCode/%EA%B7%B8%EB%9E%98%ED%94%84+%EC%A1%B0%EA%B1%B4%EC%A0%95%EB%A6%AC)
+
 ### 2024.07.11
 
 - [REST API - 6 constraints](https://publish.obsidian.md/my-para-til/000_ZettelKasten/REST+API+-+6+constraints)
