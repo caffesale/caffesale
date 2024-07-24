@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.07.24
+
+- [패키지 다이어그램](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4!)
+
 ### 2024.07.19
 
 - [CPU 스케쥴링](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/CPU+%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81)
