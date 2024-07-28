@@ -32,6 +32,20 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.07.28
+
+- [다양한 입출력 방법](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EB%8B%A4%EC%96%91%ED%95%9C+%EC%9E%85%EC%B6%9C%EB%A0%A5+%EB%B0%A9%EB%B2%95)
+- [데이터](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EB%8D%B0%EC%9D%B4%ED%84%B0)
+- [장치 컨트롤러와 장치 드라이버](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EC%9E%A5%EC%B9%98+%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EC%99%80+%EC%9E%A5%EC%B9%98+%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84)
+- [보조기억장치](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EB%B3%B4%EC%A1%B0%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98)
+- [메모리와 캐시메모리](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80+%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC)
+- [CISC와 RISC](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/CISC%EC%99%80+RISC)
+- [빠른 CPU를 위한 설계기법](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EB%B9%A0%EB%A5%B8+CPU%EB%A5%BC+%EC%9C%84%ED%95%9C+%EC%84%A4%EA%B3%84+%EA%B8%B0%EB%B2%95)
+- [명령어 사이클과 인터럽트](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EB%AA%85%EB%A0%B9%EC%96%B4+%EC%82%AC%EC%9D%B4%ED%81%B4%EA%B3%BC+%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8)
+- [ALU와 제어장치](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/ALU%EC%99%80+%EC%A0%9C%EC%96%B4%EC%9E%A5%EC%B9%98)
+- [명령어](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EB%AA%85%EB%A0%B9%EC%96%B4)
+- [컴퓨터 구조](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EC%BB%B4%ED%93%A8%ED%84%B0+%EA%B5%AC%EC%A1%B0)
+
 ### 2024.07.25
 
 - [상태 다이어그램](https://publish.obsidian.md/my-para-til/Project/UML_%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%EB%8A%94_%EC%9D%B4%EA%B2%83%EB%A7%8C_%EC%93%B4%EB%8B%A4/%EC%83%81%ED%83%9C+%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8)
