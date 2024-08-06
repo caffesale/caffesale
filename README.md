@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.08.06
+- [sort](https://publish.obsidian.md/my-para-til/AreaOfResponse/LeetCode/Sort)
+- [uf 코드 추가](https://publish.obsidian.md/my-para-til/AreaOfResponse/LeetCode/union_find)
+
 ### 2024.07.28
 
 - [다양한 입출력 방법](https://publish.obsidian.md/my-para-til/Project/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%B3%B5%EC%8A%B5/%EB%8B%A4%EC%96%91%ED%95%9C+%EC%9E%85%EC%B6%9C%EB%A0%A5+%EB%B0%A9%EB%B2%95)
