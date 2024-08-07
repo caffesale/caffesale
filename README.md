@@ -32,7 +32,7 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
-### 2024.08.06
+### 2024.08.07
 - [최소권한의 원칙](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%B5%9C%EC%86%8C%EA%B6%8C%ED%95%9C%EC%9D%98+%EC%9B%90%EC%B9%99%EC%97%90+%EC%9E%85%EA%B0%81%ED%95%9C+%EA%B6%8C%ED%95%9C+%EA%B4%80%EB%A6%AC)
 
 ### 2024.08.06
