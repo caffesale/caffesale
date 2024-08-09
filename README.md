@@ -32,6 +32,10 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
 
+### 2024.08.09
+- [vscode & yarnberry오류](https://publish.obsidian.md/my-para-til/Resources/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85/yarn_berry%26vscode%3D%3EmoduleNotFound)
+- [AWS ECS: 서킷브레이커](https://publish.obsidian.md/my-para-til/Resources/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85/AWS-ECS%EC%84%9C%EB%B9%84%EC%8A%A4%3D%3E%EC%84%9C%ED%82%B7%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%BB%A4+%EB%AC%B8%EC%A0%9C)
+
 ### 2024.08.07
 - [최소권한의 원칙](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%B5%9C%EC%86%8C%EA%B6%8C%ED%95%9C%EC%9D%98+%EC%9B%90%EC%B9%99%EC%97%90+%EC%9E%85%EA%B0%81%ED%95%9C+%EA%B6%8C%ED%95%9C+%EA%B4%80%EB%A6%AC)
 
