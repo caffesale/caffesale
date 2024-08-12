@@ -30,7 +30,11 @@
 
 ## TIL
 
-Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다. 
+Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다.
+
+### 2024.08.12
+
+- [소프트웨어에서 가장 가치있는 부분](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%97%90%EC%84%9C+%EA%B0%80%EC%9E%A5+%EA%B0%80%EC%B9%98%EC%9E%88%EB%8A%94+%EB%B6%80%EB%B6%84)
 
 ### 2024.08.09
 - [vscode & yarnberry오류](https://publish.obsidian.md/my-para-til/Resources/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85/yarn_berry%26vscode%3D%3EmoduleNotFound)
