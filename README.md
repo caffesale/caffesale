@@ -33,6 +33,9 @@
 
 Zettelkasten과 Para방법론을 이용하여 하루의 학습내용을 정리합니다.
 
+### 2024.08.20
+
+- [좋은 유저 스토리를 작성하기 위한 원칙](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A2%8B%EC%9D%80+%EC%9C%A0%EC%A0%80+%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%A5%BC+%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0+%EC%9C%84%ED%95%9C+%EC%9B%90%EC%B9%99)
 
 ### 2024.08.14
 
