@@ -26,6 +26,7 @@
 - [애자일 - 애자일 회의는 어떻게 진행되나요?](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EC%9D%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%84%ED%96%89%EB%90%98%EB%82%98%EC%9A%94)
 - [애자일 - 백로그 설계](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%B1%EB%A1%9C%EA%B7%B8-%EC%84%A4%EA%B3%84)
 - [typescript와 zod의 의존관계 생각해보기](https://velog.io/@pglibrary80/typescript%EC%99%80-zod%EC%9D%98-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0)
+- [aws lambda 고려사항](https://publish.obsidian.md/my-para-til/Resources/aws-usage/lambda-%EA%B8%B0%EB%B3%B8)
 
 
 ## ZettelKasten - 메모 상자
