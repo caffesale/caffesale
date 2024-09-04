@@ -27,7 +27,7 @@
 - [애자일 - 백로그 설계](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%B1%EB%A1%9C%EA%B7%B8-%EC%84%A4%EA%B3%84)
 - [typescript와 zod의 의존관계 생각해보기](https://velog.io/@pglibrary80/typescript%EC%99%80-zod%EC%9D%98-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [aws lambda 고려사항](https://publish.obsidian.md/my-para-til/Resources/aws-usage/lambda-%EA%B8%B0%EB%B3%B8)
-
+- [S3 파일업로드 유스케이스별 비교](https://publish.obsidian.md/my-para-til/Post/S3+%ED%8C%8C%EC%9D%BC+%EC%97%85%EB%A1%9C%EB%93%9C+%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%B3%84+%EB%B9%84%EA%B5%90)
 
 ## ZettelKasten - 메모 상자
 
