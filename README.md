@@ -19,17 +19,14 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## 블로그 포스트
+## frontendMentor & icodethis : 30day solutions
 
-- [컴포넌트 테스트 도입으로 워크플로우 개선하기](https://velog.io/@pglibrary80/storybook-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%EC%9C%BC%EB%A1%9C-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
-- [HTTP/3가 해결하려는 문제](https://velog.io/@pglibrary80/HTTP3%EA%B0%80-%ED%95%B4%EA%B2%B0%ED%95%98%EB%A0%A4%EB%8A%94-%EB%AC%B8%EC%A0%9C)
-- [애자일 - 애자일 회의는 어떻게 진행되나요?](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EC%9D%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%84%ED%96%89%EB%90%98%EB%82%98%EC%9A%94)
-- [애자일 - 백로그 설계](https://velog.io/@pglibrary80/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%B1%EB%A1%9C%EA%B7%B8-%EC%84%A4%EA%B3%84)
-- [typescript와 zod의 의존관계 생각해보기](https://velog.io/@pglibrary80/typescript%EC%99%80-zod%EC%9D%98-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0)
-- [aws lambda 고려사항](https://publish.obsidian.md/my-para-til/Resources/aws-usage/lambda-%EA%B8%B0%EB%B3%B8)
+## 세컨드브레인 - 메모 상자
+
+### 2024.09
+
 - [S3 파일업로드 유스케이스별 비교](https://publish.obsidian.md/my-para-til/Post/S3+%ED%8C%8C%EC%9D%BC+%EC%97%85%EB%A1%9C%EB%93%9C+%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%B3%84+%EB%B9%84%EA%B5%90)
-
-## ZettelKasten - 메모 상자
+- [aws lambda 고려사항](https://publish.obsidian.md/my-para-til/Resources/aws-usage/lambda-%EA%B8%B0%EB%B3%B8)
 
 ### 2024.08
 
