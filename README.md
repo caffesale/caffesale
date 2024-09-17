@@ -4,22 +4,62 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white" />
+  
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="react-query" src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=React Query&logoColor=white" />
+  <img alt="zustand" src="https://img.shields.io/badge/-Zustand-7F00FF?style=flat-square" />
+
+  <img alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-06B6D4?style=flat-square&logo=Tailwind Css&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+
+  <img alt="lambda" src="https://img.shields.io/badge/-lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img alt="ecs" src="https://img.shields.io/badge/-ecs-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+  <img alt="fargate" src="https://img.shields.io/badge/-fargate-FF9900?style=flat-square&logo=awsfargate&logoColor=white" />
+  <img alt="s3" src="https://img.shields.io/badge/-s3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="expressjs" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white" />
+
+  
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## frontendMentor & icodethis : 30day solutions
+Typescript, Next.js기반의 프론트엔드 개발자입니다.
+
+## frontendMentor & icodethis : 30day challenge
+
+브라우저 서포트 93%이하의 기능 테스트 및 매일 아침 손풀이 용으로 사용하는 레포입니다. [link](https://github.com/caffesale/fe-practice.git)
+
+- day1: qr-code-component-main
+- day2: blog-preview-card-main
+- day3: contact-form 
+  - css subgrid 활용
+  - js없이 css selector만을 활용한 invalid feedback
+- day4 ~ day5: product-list-width
+  - 최적화 테스트 및 derived State의 검증
+- day6: social-links-profile-main
+- day7 ~ day8: newsletter-sign-up-with-success-message-main
+  - dialog element:
+    - width:100%로 덮을 수 없는 padding을 가졌기 때문에 네거티브 마진으로도 패딩이 남음.
+    - display: grid, flex값일 때 dialog.close() method 동작 안함.
+    - dialog.style.display= none으로는 해결 가능하나 스크린 리더 이슈 발생 가능성 있음
+- day9: faq-accordion-main
+  - details mark: safari는 ::-webkit-details-marker selector로 따로 처리하기
+- day10: Multi-toggle
+- day11 ~ 12: bento-grid
+  - cascading을 최대한 활용해 복잡도를 줄일 수 있는 방법이 없는지 검증 필요
+  - grid-template-area로는 해결 가능하나 html구조 변경이 강요됨
+  - grid-template-rows의 경우 매직넘버를 사용하는 해결책이라서 유연성이 낮아 비선호.
+- day13: pricing-card
 
 ## 세컨드브레인 - 메모 상자
 
@@ -27,6 +67,15 @@
 
 - [S3 파일업로드 유스케이스별 비교](https://publish.obsidian.md/my-para-til/Post/S3+%ED%8C%8C%EC%9D%BC+%EC%97%85%EB%A1%9C%EB%93%9C+%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%B3%84+%EB%B9%84%EA%B5%90)
 - [aws lambda 고려사항](https://publish.obsidian.md/my-para-til/Resources/aws-usage/lambda-%EA%B8%B0%EB%B3%B8)
+- 도커 시리즈
+  - [Dockerfile](https://publish.obsidian.md/my-para-til/Project/Docker/Dockerfile)
+  - [docker-compose](https://publish.obsidian.md/my-para-til/Project/Docker/docker-compose)
+  - [qna](https://publish.obsidian.md/my-para-til/Project/Docker/docker-qna)
+  - [volume](https://publish.obsidian.md/my-para-til/Project/Docker/docker-volume)
+  - [network](https://publish.obsidian.md/my-para-til/Project/Docker/docker-network)
+  - [자원 할당](https://publish.obsidian.md/my-para-til/Project/Docker/docker-%EC%9E%90%EC%9B%90%ED%95%A0%EB%8B%B9)
+- [AI 스크립트 예시](https://publish.obsidian.md/my-para-til/Resources/AI-script/Prompt+Example)
+- [람다함수 기본](https://publish.obsidian.md/my-para-til/Resources/aws-usage/lambda-%EA%B8%B0%EB%B3%B8)
 
 ### 2024.08
 
