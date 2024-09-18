@@ -60,6 +60,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - grid-template-area로는 해결 가능하나 html구조 변경이 강요됨
   - grid-template-rows의 경우 매직넘버를 사용하는 해결책이라서 유연성이 낮아 비선호.
 - day13: pricing-card
+- day14: horizontal-scroll-infinite
+  - scroller__inner animation: width: max-content로 inner가 container보다 넓게 수정
+  - scroller__inner animation: translate(calc(-50% - **--gap // 2**))
+  - prefers-reduced-motion: true접근성을 고려한 flex-wrap: nowrap처리 -> animation이 없을 시 표시영역 외부 요소도 볼 수 있도록 접근성 개선
+  - mask는 브라우저 서포트상 -webkit-mask필수
 
 ## 세컨드브레인 - 메모 상자
 
