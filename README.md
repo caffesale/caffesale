@@ -65,6 +65,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - scroller__inner animation: translate(calc(-50% - **--gap // 2**))
   - prefers-reduced-motion: true접근성을 고려한 flex-wrap: nowrap처리 -> animation이 없을 시 표시영역 외부 요소도 볼 수 있도록 접근성 개선
   - mask는 브라우저 서포트상 -webkit-mask필수
+- day15: typo-effects
+  - typo이펙트의 경우 monospace계열의 고정폭 글꼴, 영어의 조건이 훨씬 쉬움
+  - glitch, hacker effect
 
 ## 세컨드브레인 - 메모 상자
 
