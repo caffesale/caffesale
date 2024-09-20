@@ -68,6 +68,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day15: typo-effects
   - typo이펙트의 경우 monospace계열의 고정폭 글꼴, 영어의 조건이 훨씬 쉬움
   - glitch, hacker effect
+- day16: prefetching, requestmemoization
 
 ## 세컨드브레인 - 메모 상자
 
