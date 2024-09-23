@@ -1,6 +1,10 @@
 
 # 프론트엔드 개발자 김동규입니다
 
+## 자기소개
+Typescript, Next.js기반의 프론트엔드 개발자입니다.
+
+## 기술스택
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
@@ -33,7 +37,6 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
 
-Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 ## frontendMentor & icodethis : 30day challenge
 
@@ -68,7 +71,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day15: typo-effects
   - typo이펙트의 경우 monospace계열의 고정폭 글꼴, 영어의 조건이 훨씬 쉬움
   - glitch, hacker effect
-- day16: prefetching, requestmemoization
+- day16 ~ day17: prefetching, requestmemoization
+- day18: footer-ui
+- day19: 프로그래머스 실전과제형 게시물 레이아웃 재구성하기
 
 ## 세컨드브레인 - 메모 상자
 
