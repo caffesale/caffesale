@@ -90,6 +90,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [자원 할당](https://publish.obsidian.md/my-para-til/Project/Docker/docker-%EC%9E%90%EC%9B%90%ED%95%A0%EB%8B%B9)
 - [AI 스크립트 예시](https://publish.obsidian.md/my-para-til/Resources/AI-script/Prompt+Example)
 - [람다함수 기본](https://publish.obsidian.md/my-para-til/Resources/aws-usage/lambda-%EA%B8%B0%EB%B3%B8)
+- [추론의 일방통행성](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%B6%94%EB%A1%A0%EC%9D%98+%EC%9D%BC%EB%B0%A9%ED%86%B5%ED%96%89%EC%84%B1)
+- [정형화에 반하는 사회규범](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A0%84%ED%98%95%ED%99%94%EC%97%90+%EB%B0%98%ED%95%98%EB%8A%94+%EC%82%AC%ED%9A%8C+%EA%B7%9C%EB%B2%94)
 
 ### 2024.08
 
