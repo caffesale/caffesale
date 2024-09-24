@@ -74,6 +74,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day16 ~ day17: prefetching, requestmemoization
 - day18: footer-ui
 - day19: 프로그래머스 실전과제형 게시물 레이아웃 재구성하기
+- day20: circle-team
+  - svg, textPath 학습하기
+  - sin, cos, calcPosition
 
 ## 세컨드브레인 - 메모 상자
 
