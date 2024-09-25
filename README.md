@@ -77,6 +77,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day20: circle-team
   - svg, textPath 학습하기
   - sin, cos, calcPosition
+- day21~22: Intro section with dropdown navigation
 
 ## 세컨드브레인 - 메모 상자
 
