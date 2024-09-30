@@ -106,6 +106,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [기술적 요구사항과 스팸 정책](https://publish.obsidian.md/my-para-til/Resources/SEO/Google+Search+Central/%EA%B8%B0%EC%88%A0%EC%A0%81+%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EA%B3%BC+%EC%8A%A4%ED%8C%B8+%EC%A0%95%EC%B1%85)
   - [simplilearn](https://publish.obsidian.md/my-para-til/Resources/SEO/Simplilearn)
   - [fireship SEO](https://publish.obsidian.md/my-para-til/Resources/SEO/Fireship+SEO)
+- [승리한 바닷가재](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8A%B9%EB%A6%AC%ED%95%9C+%EB%B0%94%EB%8B%B7%EA%B0%80%EC%9E%AC)
+- [뇌 계산기와 자동화](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%87%8C+%EA%B3%84%EC%82%B0%EA%B8%B0%EC%99%80+%EC%9E%90%EB%8F%99%ED%99%94)
+- [승자가 독식한다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8A%B9%EC%9E%90%EA%B0%80+%EB%8F%85%EC%8B%9D%ED%95%9C%EB%8B%A4)
+- [아키텍처는 이어진 직물이다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94+%EC%9D%B4%EC%96%B4%EC%A7%84+%EC%A7%81%EB%AC%BC%EC%9D%B4%EB%8B%A4)
+- [불완전한 지식에 기초해 행동하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B6%88%EC%99%84%EC%A0%84%ED%95%9C+%EC%A7%80%EC%8B%9D%EC%97%90+%EA%B8%B0%EC%B4%88%ED%95%B4+%ED%96%89%EB%8F%99%ED%95%98%EA%B8%B0)
 
 ### 2024.08
 
