@@ -80,6 +80,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day21~23: Intro section with dropdown navigation
 - day24: Interactive rating component
 - day25~26: svg tutorial
+- day27~28: agency landing page
 
 ## 세컨드브레인 - 메모 상자
 
