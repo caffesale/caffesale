@@ -84,6 +84,10 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 ## 세컨드브레인 - 메모 상자
 
+### 2024.10
+
+- [the first 20 hours](https://publish.obsidian.md/my-para-til/000_ZettelKasten/the+first+20+hours)
+
 ### 2024.09
 
 - [S3 파일업로드 유스케이스별 비교](https://publish.obsidian.md/my-para-til/Post/S3+%ED%8C%8C%EC%9D%BC+%EC%97%85%EB%A1%9C%EB%93%9C+%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%B3%84+%EB%B9%84%EA%B5%90)
