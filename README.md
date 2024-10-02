@@ -81,6 +81,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day24: Interactive rating component
 - day25~26: svg tutorial
 - day27~28: Stats preview card component
+  - before의사요소에 background-color지정 or
+  - image에 직접 mix-blend-mode, filter, background-color지정
 
 ## 세컨드브레인 - 메모 상자
 
