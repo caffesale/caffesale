@@ -80,13 +80,14 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day21~23: Intro section with dropdown navigation
 - day24: Interactive rating component
 - day25~26: svg tutorial
-- day27~28: agency landing page
+- day27~28: Stats preview card component
 
 ## 세컨드브레인 - 메모 상자
 
 ### 2024.10
 
 - [the first 20 hours](https://publish.obsidian.md/my-para-til/000_ZettelKasten/the+first+20+hours)
+- [버스에 날아든 돌](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B2%84%EC%8A%A4%EC%97%90+%EB%82%A0%EC%95%84%EC%98%A8+%EB%8F%8C)
 
 ### 2024.09
 
