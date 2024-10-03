@@ -83,6 +83,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day27~28: Stats preview card component
   - before의사요소에 background-color지정 or
   - image에 직접 mix-blend-mode, filter, background-color지정
+- day29: 
 
 ## 세컨드브레인 - 메모 상자
 
@@ -90,6 +91,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 - [the first 20 hours](https://publish.obsidian.md/my-para-til/000_ZettelKasten/the+first+20+hours)
 - [버스에 날아든 돌](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B2%84%EC%8A%A4%EC%97%90+%EB%82%A0%EC%95%84%EC%98%A8+%EB%8F%8C)
+- [경청과 대화](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B2%BD%EC%B2%AD%EA%B3%BC+%EB%8C%80%ED%99%94)
+- [대화를 요약하는 대화법](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%8C%80%ED%99%94%EB%A5%BC+%EC%9A%94%EC%95%BD%ED%95%98%EB%8A%94+%EB%8C%80%ED%99%94%EB%B2%95)
+- [자기 자신과의 대화](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9E%90%EA%B8%B0+%EC%9E%90%EC%8B%A0%EA%B3%BC%EC%9D%98+%EB%8C%80%ED%99%94+-+%EC%83%9D%EA%B0%81)
 
 ### 2024.09
 
