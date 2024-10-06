@@ -38,9 +38,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 </p>
 
 
-## frontendMentor & icodethis : 30day challenge
+## frontendMentor & icodethis : 30day challenge 감상
 
-브라우저 서포트 93%이하의 기능 테스트 및 매일 아침 손풀이 용으로 사용하는 레포입니다. [link](https://github.com/caffesale/fe-practice.git)
+**Quality over Quantity**
+
+기본적인 레이아웃 연습, 브라우저 지원률이 떨어지는 css기능 테스트등을 30일 연속으로 테스트함. 그러나 다른 과제와 병행하여 주로 짧은 시간에 끝낼 수 있는 과제에 치중되었음. 다음부터는 양보다 질을 우선하여 명확한 도전 과제가 있는 주제에 집중할 것. [link](https://github.com/caffesale/fe-practice.git)
 
 - day1: qr-code-component-main
 - day2: blog-preview-card-main
@@ -83,7 +85,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day27~28: Stats preview card component
   - before의사요소에 background-color지정 or
   - image에 직접 mix-blend-mode, filter, background-color지정
-- day29: 
+- day29~30: job-listing 
 
 ## 세컨드브레인 - 메모 상자
 
