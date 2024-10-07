@@ -96,6 +96,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [경청과 대화](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B2%BD%EC%B2%AD%EA%B3%BC+%EB%8C%80%ED%99%94)
 - [대화를 요약하는 대화법](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%8C%80%ED%99%94%EB%A5%BC+%EC%9A%94%EC%95%BD%ED%95%98%EB%8A%94+%EB%8C%80%ED%99%94%EB%B2%95)
 - [자기 자신과의 대화](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9E%90%EA%B8%B0+%EC%9E%90%EC%8B%A0%EA%B3%BC%EC%9D%98+%EB%8C%80%ED%99%94+-+%EC%83%9D%EA%B0%81)
+- [에릭 에반스 DDD](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/index)
+  - [도메인 모델의 3가지 용도](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EB%8F%84%EB%A9%94%EC%9D%B8+%EB%AA%A8%EB%8D%B8%EC%9D%98+3%EA%B0%80%EC%A7%80+%EC%9A%A9%EB%8F%84) 
 
 ### 2024.09
 
