@@ -102,6 +102,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [모델에 대한 참고사항](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EB%AA%A8%EB%8D%B8%EC%97%90+%EB%8C%80%ED%95%9C+%EC%B0%B8%EA%B3%A0%EC%82%AC%ED%95%AD)
   - [문서 생성을 위한 참고사항](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EB%AC%B8%EC%84%9C+%EC%83%9D%EC%84%B1%EC%9D%84+%EC%9C%84%ED%95%9C+%EC%B0%B8%EA%B3%A0%EC%82%AC%ED%95%AD)
   - [knowledge crunching은 탐험 과정이다](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/knowledge+crunching%EC%9D%80+%ED%83%90%ED%97%98+%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.)
+  - [Service](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/Service)
+  - [Bi-directional Association](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/Bi-directional+Associations)
+  - [Value Object 다루기](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/Value+Object+%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 
 ### 2024.09
 
