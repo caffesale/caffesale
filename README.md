@@ -105,6 +105,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [Service](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/Service)
   - [Bi-directional Association](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/Bi-directional+Associations)
   - [Value Object 다루기](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/Value+Object+%EB%8B%A4%EB%A3%A8%EA%B8%B0)
+  - [객체의 생명주기 관리하기](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B0%9D%EC%B2%B4%EC%9D%98+%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0+%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+  - [AGGREGATE](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/AGGREGATE)
+  - [FACTORY](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/FACTORY)
 
 ### 2024.09
 
