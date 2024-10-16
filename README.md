@@ -95,10 +95,13 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [상속세](https://publish.obsidian.md/my-para-til/Project/FunctionalProgramming/16.+%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8+%EC%82%AC%EC%9D%B4%EC%97%90+%EC%9E%90%EC%9B%90+%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0)
 - [버스에 날아든 돌](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B2%84%EC%8A%A4%EC%97%90+%EB%82%A0%EC%95%84%EC%98%A8+%EB%8F%8C)
 - [경청과 대화](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B2%BD%EC%B2%AD%EA%B3%BC+%EB%8C%80%ED%99%94)
+- [리팩터링의 계층](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%EC%9D%98+%EA%B3%84%EC%B8%B5)
+- [typeorm FAQ](https://publish.obsidian.md/my-para-til/Resources/ORM/typeorm/FAQ)
 - [대화를 요약하는 대화법](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%8C%80%ED%99%94%EB%A5%BC+%EC%9A%94%EC%95%BD%ED%95%98%EB%8A%94+%EB%8C%80%ED%99%94%EB%B2%95)
 - [자기 자신과의 대화](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9E%90%EA%B8%B0+%EC%9E%90%EC%8B%A0%EA%B3%BC%EC%9D%98+%EB%8C%80%ED%99%94+-+%EC%83%9D%EA%B0%81)
 - [에릭 에반스 DDD](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/index)
   - [도메인 모델의 3가지 용도](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EB%8F%84%EB%A9%94%EC%9D%B8+%EB%AA%A8%EB%8D%B8%EC%9D%98+3%EA%B0%80%EC%A7%80+%EC%9A%A9%EB%8F%84)
+  - [깊은 통찰을 위한 리팩터링-index](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/index)
   - [몬티 파이썬의 교훈과 도메인 전문가 교섭](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AA%AC%ED%8B%B0+%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98+%EA%B5%90%ED%9B%88%EA%B3%BC+%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A0%84%EB%AC%B8%EA%B0%80+%EA%B5%90%EC%84%AD)
   - [모델에 대한 참고사항](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EB%AA%A8%EB%8D%B8%EC%97%90+%EB%8C%80%ED%95%9C+%EC%B0%B8%EA%B3%A0%EC%82%AC%ED%95%AD)
   - [문서 생성을 위한 참고사항](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EB%AC%B8%EC%84%9C+%EC%83%9D%EC%84%B1%EC%9D%84+%EC%9C%84%ED%95%9C+%EC%B0%B8%EA%B3%A0%EC%82%AC%ED%95%AD)
@@ -109,6 +112,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [객체의 생명주기 관리하기](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B0%9D%EC%B2%B4%EC%9D%98+%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0+%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
   - [AGGREGATE](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/AGGREGATE)
   - [FACTORY](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/FACTORY)
+  - [REPOSITORY](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/REPOSITORY)
+
 
 ### 2024.09
 
