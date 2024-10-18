@@ -112,8 +112,12 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [객체의 생명주기 관리하기](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B0%9D%EC%B2%B4%EC%9D%98+%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0+%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
   - [AGGREGATE](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/AGGREGATE)
   - [FACTORY](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/FACTORY)
+  - [SPECIFICATION](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/SPECIFICATION)
+  - [도메인 객체에서 절차를 처리하기](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/%EB%8F%84%EB%A9%94%EC%9D%B8+%EA%B0%9D%EC%B2%B4%EC%97%90%EC%84%9C+%EC%A0%88%EC%B0%A8%EB%A5%BC+%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
+  - [객체의 설계가 왜곡되었다는 신호](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%9D%EC%B2%B4%EC%9D%98+%EC%84%A4%EA%B3%84%EA%B0%80+%EC%99%9C%EA%B3%A1%EB%90%98%EC%97%88%EB%8B%A4%EB%8A%94+%EC%8B%A0%ED%98%B8)
   - [REPOSITORY](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/REPOSITORY)
   - [암시적인 것을 명시적인 것으로 대체하라](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/%EC%95%94%EC%8B%9C%EC%A0%81%EC%9D%B8+%EA%B2%83%EC%9D%84+%EB%AA%85%EC%8B%9C%EC%A0%81%EC%9D%B8+%EA%B2%83%EC%9C%BC%EB%A1%9C+%EB%8C%80%EC%B2%B4%ED%95%98%EB%9D%BC)
+  
 
 
 ### 2024.09
