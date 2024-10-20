@@ -91,6 +91,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 ### 2024.10
 
+- [계약에 의한 설계 활용하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B3%84%EC%95%BD%EC%97%90+%EC%9D%98%ED%95%9C+%EC%84%A4%EA%B3%84+%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [이름 잘 지으라는 말의 의미](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%B4%EB%A6%84%EC%9D%84+%EC%9E%98+%EC%A7%80%EC%9C%BC%EB%9D%BC%EB%8A%94+%EB%A7%90%EC%9D%98+%EC%9D%98%EB%AF%B8)
 - [the first 20 hours](https://publish.obsidian.md/my-para-til/000_ZettelKasten/the+first+20+hours)
 - [상속세](https://publish.obsidian.md/my-para-til/Project/FunctionalProgramming/16.+%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8+%EC%82%AC%EC%9D%B4%EC%97%90+%EC%9E%90%EC%9B%90+%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0)
 - [버스에 날아든 돌](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B2%84%EC%8A%A4%EC%97%90+%EB%82%A0%EC%95%84%EC%98%A8+%EB%8F%8C)
