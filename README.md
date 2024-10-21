@@ -121,6 +121,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [암시적인 것을 명시적인 것으로 대체하라](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/%EC%95%94%EC%8B%9C%EC%A0%81%EC%9D%B8+%EA%B2%83%EC%9D%84+%EB%AA%85%EC%8B%9C%EC%A0%81%EC%9D%B8+%EA%B2%83%EC%9C%BC%EB%A1%9C+%EB%8C%80%EC%B2%B4%ED%95%98%EB%9D%BC)
   - [유연한 설계](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/%EC%9C%A0%EC%97%B0%ED%95%9C+%EC%84%A4%EA%B3%84)
   - [CONCEPTUAL CONTOURS](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/CONCEPTUAL+CONTOURS)
+  - [리팩터링을 시도할 시기](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%EC%9D%84+%EC%8B%9C%EB%8F%84%ED%95%A0+%EC%8B%9C%EA%B8%B0)
+  - [CLOSURE OF OPERATIONS](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/CLOSURE+OF+OPERATIONS)
   
 
 
