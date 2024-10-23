@@ -125,6 +125,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [CLOSURE OF OPERATIONS](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EA%B9%8A%EC%9D%80+%ED%86%B5%EC%B0%B0%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/CLOSURE+OF+OPERATIONS)
   - [CONTEXT MAP](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EC%A0%84%EB%9E%B5+%EB%94%94%EC%9E%90%EC%9D%B8/CONTEXT+MAP)
   - [BOUNDED CONTEXT](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EC%A0%84%EB%9E%B5+%EB%94%94%EC%9E%90%EC%9D%B8/BOUNDED+CONTEXT)
+  - [경계 변환하기](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EC%A0%84%EB%9E%B5+%EB%94%94%EC%9E%90%EC%9D%B8/%EA%B2%BD%EA%B3%84+%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0+-+Transforming+Boundaries)
+  - [CONFORMIST](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EC%A0%84%EB%9E%B5+%EB%94%94%EC%9E%90%EC%9D%B8/CONFORMIST)
+  - [CUSTOMER/SUPPLIER](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EC%A0%84%EB%9E%B5+%EB%94%94%EC%9E%90%EC%9D%B8/CUSTOMER%26SUPPLIER+DEVELOPMENT+TEAMS)
+  - [SEPARATE WAYS](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EC%A0%84%EB%9E%B5+%EB%94%94%EC%9E%90%EC%9D%B8/SEPARATE+WAYS)
+  - [OPEN HOST SERVICE + PUBLISHED LANGUAGE](https://publish.obsidian.md/my-para-til/Resources/%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A3%BC%EB%8F%84+%EC%84%A4%EA%B3%84/TheBook/%EC%A0%84%EB%9E%B5+%EB%94%94%EC%9E%90%EC%9D%B8/OPEN+HOST+SERVICE+%2B+PUBLISHED+LANGUAGE)
   
 
 
