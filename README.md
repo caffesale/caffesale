@@ -89,6 +89,13 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 ## 세컨드브레인 - 메모 상자
 
+### 2024.11
+
+- SQLD
+  - [SQL 활용](https://publish.obsidian.md/my-para-til/Project/SQLD/SQL+%ED%99%9C%EC%9A%A9)
+  - [SQL 출제예상문제](https://publish.obsidian.md/my-para-til/Project/SQLD/SQL+%ED%99%9C%EC%9A%A9+-+%EC%B6%9C%EC%A0%9C%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C)
+- [AWS 커뮤니티 데이 2024 서울](https://publish.obsidian.md/my-para-til/Resources/AWS+Amazone+Community+Day+-+%EC%84%9C%EC%9A%B8%2C+2024)
+
 ### 2024.10
 
 - [계약에 의한 설계 활용하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B3%84%EC%95%BD%EC%97%90+%EC%9D%98%ED%95%9C+%EC%84%A4%EA%B3%84+%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
