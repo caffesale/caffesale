@@ -95,6 +95,12 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [SQL 활용](https://publish.obsidian.md/my-para-til/Project/SQLD/SQL+%ED%99%9C%EC%9A%A9)
   - [SQL 출제예상문제](https://publish.obsidian.md/my-para-til/Project/SQLD/SQL+%ED%99%9C%EC%9A%A9+-+%EC%B6%9C%EC%A0%9C%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C)
 - [AWS 커뮤니티 데이 2024 서울](https://publish.obsidian.md/my-para-til/Resources/AWS+Amazone+Community+Day+-+%EC%84%9C%EC%9A%B8%2C+2024)
+- Atomic Habit
+  - [행동의 거푸집 만들기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%96%89%EB%8F%99%EC%9D%98+%EA%B1%B0%ED%91%B8%EC%A7%91+%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  - [습관을 얻고 싶다면 정체성을 변화시켜라](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8A%B5%EA%B4%80%EC%9D%84+%EC%96%BB%EA%B3%A0%EC%8B%B6%EB%8B%A4%EB%A9%B4+%EC%A0%95%EC%B2%B4%EC%84%B1%EC%9D%84+%EB%B3%80%ED%99%94%EC%8B%9C%EC%BC%9C%EB%9D%BC)
+  - [어두운 바다에 등대 세우기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%96%B4%EB%91%90%EC%9A%B4+%EB%B0%94%EB%8B%A4%EC%97%90+%EB%93%B1%EB%8C%80+%EC%84%B8%EC%9A%B0%EA%B8%B0+-+%EC%8B%A0%ED%98%B8%EB%A5%BC+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EB%B2%95)
+  - [징크스는 실재한다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%95%ED%81%AC%EC%8A%A4%EB%8A%94+%EC%8B%A4%EC%9E%AC%ED%95%9C%EB%8B%A4+-+%EC%97%B4%EB%A7%9D%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EB%B2%95)
+  - [트로피는 스스로 만들어라](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%8A%B8%EB%A1%9C%ED%94%BC%EB%8A%94+%EC%8A%A4%EC%8A%A4%EB%A1%9C+%EB%A7%8C%EB%93%A4%EC%96%B4%EB%9D%BC+-+Temptation+bundling)
 
 ### 2024.10
 
