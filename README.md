@@ -102,6 +102,12 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [어두운 바다에 등대 세우기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%96%B4%EB%91%90%EC%9A%B4+%EB%B0%94%EB%8B%A4%EC%97%90+%EB%93%B1%EB%8C%80+%EC%84%B8%EC%9A%B0%EA%B8%B0+-+%EC%8B%A0%ED%98%B8%EB%A5%BC+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EB%B2%95)
   - [징크스는 실재한다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%95%ED%81%AC%EC%8A%A4%EB%8A%94+%EC%8B%A4%EC%9E%AC%ED%95%9C%EB%8B%A4+-+%EC%97%B4%EB%A7%9D%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EB%B2%95)
   - [트로피는 스스로 만들어라](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%8A%B8%EB%A1%9C%ED%94%BC%EB%8A%94+%EC%8A%A4%EC%8A%A4%EB%A1%9C+%EB%A7%8C%EB%93%A4%EC%96%B4%EB%9D%BC+-+Temptation+bundling)
+  - [작고 유연한 나 유지하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9E%91%EA%B3%A0+%EC%9C%A0%EC%97%B0%ED%95%9C+%EB%82%98+%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0)
+  - [실천가의 저금통](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%8B%A4%EC%B2%9C%EA%B0%80%EC%9D%98+%EC%A0%80%EA%B8%88%ED%86%B5)
+  - [만족 - 보상을 다루는 방법](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%A7%8C%EC%A1%B1+-+%EB%B3%B4%EC%83%81%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EB%B2%95)
+  - [의식의 중요성](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%98%EC%8B%9D%EC%9D%98+%EC%A4%91%EC%9A%94%EC%84%B1)
+  - [게으름이 승리한다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B2%8C%EC%9C%BC%EB%A6%84%EC%9D%B4+%EC%8A%B9%EB%A6%AC%ED%95%9C%EB%8B%A4+-+%EB%B0%98%EC%9D%91%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EB%B2%95)
+  - [motion과 action의 차이](https://publish.obsidian.md/my-para-til/000_ZettelKasten/motion%EA%B3%BC+action%EC%9D%98+%EC%B0%A8%EC%9D%B4)
 
 ### 2024.10
 
