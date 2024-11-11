@@ -91,6 +91,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 ### 2024.11
 
+- [옵시디언 소개 페이지](https://publish.obsidian.md/my-para-til/index)
 - [무지는 일시적 상태를 나타내는 단어다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AC%B4%EC%A7%80%EB%8A%94+%EC%9D%BC%EC%8B%9C%EC%A0%81+%EC%83%81%ED%83%9C%EB%A5%BC+%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94+%EB%8B%A8%EC%96%B4%EB%8B%A4.)
 - SQLD
   - [SQL 활용](https://publish.obsidian.md/my-para-til/Project/SQLD/SQL+%ED%99%9C%EC%9A%A9)
