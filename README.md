@@ -94,6 +94,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [옵시디언 소개 페이지](https://publish.obsidian.md/my-para-til/index)
 - [늘어가는 정보와 줄어가는 의미](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%8A%98%EC%96%B4%EA%B0%80%EB%8A%94+%EC%A0%95%EB%B3%B4%EC%99%80+%EC%A4%84%EC%96%B4%EA%B0%80%EB%8A%94+%EC%9D%98%EB%AF%B8)
 - [무지는 일시적 상태를 나타내는 단어다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AC%B4%EC%A7%80%EB%8A%94+%EC%9D%BC%EC%8B%9C%EC%A0%81+%EC%83%81%ED%83%9C%EB%A5%BC+%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94+%EB%8B%A8%EC%96%B4%EB%8B%A4.)
+- [설계 지구력 가설](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%84%A4%EA%B3%84+%EC%A7%80%EA%B5%AC%EB%A0%A5+%EA%B0%80%EC%84%A4)
+- [보이스카웃 규칙 - 언제 리팩터링해야 하나?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B3%B4%EC%9D%B4%EC%8A%A4%EC%B9%B4%EC%9B%83+%EA%B7%9C%EC%B9%99+-+%EC%96%B8%EC%A0%9C+%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81+%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98%3F)
 - SQLD
   - [SQL 활용](https://publish.obsidian.md/my-para-til/Project/SQLD/SQL+%ED%99%9C%EC%9A%A9)
   - [SQL 출제예상문제](https://publish.obsidian.md/my-para-til/Project/SQLD/SQL+%ED%99%9C%EC%9A%A9+-+%EC%B6%9C%EC%A0%9C%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C)
