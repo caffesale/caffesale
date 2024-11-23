@@ -96,6 +96,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [(프로그래밍)언어의 구조가 인지 영역을 결정한다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)%EC%96%B8%EC%96%B4%EC%9D%98+%EA%B5%AC%EC%A1%B0%EA%B0%80+%EC%9D%B8%EC%A7%80+%EC%98%81%EC%97%AD%EC%9D%84+%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4)
 - [나야, step function](https://publish.obsidian.md/my-para-til/Resources/%EB%82%98%EC%95%BC%2C+Step+Function)
 - [기계적 리팩터링의 목적](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B8%B0%EA%B3%84%EC%A0%81+%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%EC%9D%98+%EB%AA%A9%EC%A0%81)
+- [1.5계층 리팩터링](https://publish.obsidian.md/my-para-til/000_ZettelKasten/1.5%EA%B3%84%EC%B8%B5+%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81)
+- [질의함수화하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%88%EC%9D%98%ED%95%A8%EC%88%98%ED%99%94%ED%95%98%EA%B8%B0(to-query))
 - [리팩터링 팁 - 쓰기 동작 리팩터링 시 누락 검출방법](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81+%ED%8C%81+-+%EC%93%B0%EA%B8%B0+%EB%8F%99%EC%9E%91+%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81+%EC%8B%9C+%EB%88%84%EB%9D%BD+%EA%B2%80%EC%B6%9C%EB%B0%A9%EB%B2%95)
 - [First-Class - 리팩터링 2판과 일급 컬렉션 비교](https://publish.obsidian.md/my-para-til/000_ZettelKasten/First-Class+-+%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81+2%ED%8C%90%EA%B3%BC+%EC%9D%BC%EA%B8%89+%EC%BB%AC%EB%A0%89%EC%85%98+%EB%B9%84%EA%B5%90)
 - [공동 소유 원칙과 기능별 브랜치](https://publish.obsidian.md/my-para-til/000_ZettelKasten/code+ownership+-+feature+branch+%26+CI)
