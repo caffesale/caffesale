@@ -123,6 +123,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [의식의 중요성](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%98%EC%8B%9D%EC%9D%98+%EC%A4%91%EC%9A%94%EC%84%B1)
   - [게으름이 승리한다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B2%8C%EC%9C%BC%EB%A6%84%EC%9D%B4+%EC%8A%B9%EB%A6%AC%ED%95%9C%EB%8B%A4+-+%EB%B0%98%EC%9D%91%EC%9D%84+%EB%8B%A4%EB%A3%A8%EB%8A%94+%EB%B0%A9%EB%B2%95)
   - [motion과 action의 차이](https://publish.obsidian.md/my-para-til/000_ZettelKasten/motion%EA%B3%BC+action%EC%9D%98+%EC%B0%A8%EC%9D%B4)
+- GraphQL 20hour
+  - [GraphQL 소개](https://publish.obsidian.md/my-para-til/Project/GraphQL/1.+GraphQL+%EC%86%8C%EA%B0%9C)
+  - [기초](https://publish.obsidian.md/my-para-til/Project/GraphQL/2.+Fundamentals)
 
 ### 2024.10
 
