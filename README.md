@@ -92,6 +92,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 ### 2024.11
 
 - [옵시디언 소개 페이지](https://publish.obsidian.md/my-para-til/index)
+- [참조 투명성](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%B0%B8%EC%A1%B0+%ED%88%AC%EB%AA%85%EC%84%B1(reference+Transparency))
+- [플래그 인수와 타입 코드](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%94%8C%EB%9E%98%EA%B7%B8+%EC%9D%B8%EC%88%98%EC%99%80+%ED%83%80%EC%9E%85+%EC%BD%94%EB%93%9C(%EB%B8%8C%EB%9E%9C%EB%93%9C))
 - [늘어가는 정보와 줄어가는 의미](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%8A%98%EC%96%B4%EA%B0%80%EB%8A%94+%EC%A0%95%EB%B3%B4%EC%99%80+%EC%A4%84%EC%96%B4%EA%B0%80%EB%8A%94+%EC%9D%98%EB%AF%B8)
 - [(프로그래밍)언어의 구조가 인지 영역을 결정한다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)%EC%96%B8%EC%96%B4%EC%9D%98+%EA%B5%AC%EC%A1%B0%EA%B0%80+%EC%9D%B8%EC%A7%80+%EC%98%81%EC%97%AD%EC%9D%84+%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4)
 - [나야, step function](https://publish.obsidian.md/my-para-til/Resources/%EB%82%98%EC%95%BC%2C+Step+Function)
