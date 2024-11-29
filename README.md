@@ -128,6 +128,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - GraphQL 20hour
   - [GraphQL 소개](https://publish.obsidian.md/my-para-til/Project/GraphQL/1.+GraphQL+%EC%86%8C%EA%B0%9C)
   - [기초](https://publish.obsidian.md/my-para-til/Project/GraphQL/2.+Fundamentals)
+  - [3. ServerSide Development](https://publish.obsidian.md/my-para-til/Project/GraphQL/3.+ServerSide+Development)
+  - [GraphQL - ClientSide 학습 참고](https://publish.obsidian.md/my-para-til/Project/GraphQL/GraphQL+-+ClientSide+%ED%95%99%EC%8A%B5+%EC%B0%B8%EA%B3%A0)
+  - [4. ClientSide Development](https://publish.obsidian.md/my-para-til/Project/GraphQL/4.+ClientSide+Development)
+  - [GraphQL - ServerSide 학습 참고](https://publish.obsidian.md/my-para-til/Project/GraphQL/GraphQL+-+ServerSide+%ED%95%99%EC%8A%B5+%EC%B0%B8%EA%B3%A0)
+  - [5. Real-world Considerations](https://publish.obsidian.md/my-para-til/Project/GraphQL/5.+Real-world+Considerations)
 
 ### 2024.10
 
