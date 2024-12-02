@@ -38,11 +38,20 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 </p>
 
 
-## advent.js: 2024.12
+## [advent.js](https://adventjs.dev/): 2024.12
 
 - day1: 배열 중복 제거 및 정렬하기
+- day2: 문자열 조작, names array에 '*'로 액자 작성해주기
+  - String.Prototype.repeat(aNumber):반복 문자열 생성함수
 
 ## 세컨드브레인 - 메모 상자
+
+### 2024.12
+
+- [Pareto Practice](https://publish.obsidian.md/my-para-til/Resources/Pareto+practice)
+- [GraphQL Learning Plan](https://publish.obsidian.md/my-para-til/Post/GraphQL/GraphQL+Learning+Plan)
+- [AI로 학습계획 세우기 - GraphQL](https://publish.obsidian.md/my-para-til/Post/GraphQL/AI%EB%A1%9C+%ED%95%99%EC%8A%B5%EA%B3%84%ED%9A%8D+%EC%84%B8%EC%9A%B0%EA%B8%B0+-+GraphQL)
+- [Express.js & Typescript 백엔드 FAQ](https://publish.obsidian.md/my-para-til/Post/Express.js+%26+Typescript+%EB%B0%B1%EC%97%94%EB%93%9C+FAQ)
 
 ### 2024.11
 
