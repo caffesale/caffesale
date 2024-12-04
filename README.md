@@ -45,6 +45,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - String.Prototype.repeat(aNumber):반복 문자열 생성함수
 - day3: 조건에 맞는 레코드생성, reduce
   - 기본값 설정 시 hasOwnProperty조건문 외에 (undefined || 0) 사용 (python .get()과 같은 용도)
+- day4: 문자열 조작, 크리스마스 트리 그리기
+  - Array.Prototype.join() vs string + 연산
 
 ## 세컨드브레인 - 메모 상자
 
