@@ -57,6 +57,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [AI로 학습계획 세우기 - GraphQL](https://publish.obsidian.md/my-para-til/Post/GraphQL/AI%EB%A1%9C+%ED%95%99%EC%8A%B5%EA%B3%84%ED%9A%8D+%EC%84%B8%EC%9A%B0%EA%B8%B0+-+GraphQL)
 - [Express.js & Typescript 백엔드 FAQ](https://publish.obsidian.md/my-para-til/Post/Express.js+%26+Typescript+%EB%B0%B1%EC%97%94%EB%93%9C+FAQ)
 - [Jest.config FAQ](https://publish.obsidian.md/my-para-til/Post/Jest.config+FAQ)
+- [tsc 트랜스파일 결과와 node 모듈 해석 확인](https://publish.obsidian.md/my-para-til/Post/tsc+%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8C%8C%EC%9D%BC+%EA%B2%B0%EA%B3%BC%EC%99%80+node+%EB%AA%A8%EB%93%88+%ED%95%B4%EC%84%9D+%ED%99%95%EC%9D%B8)
+- [Big question](https://publish.obsidian.md/my-para-til/000_ZettelKasten/Big+Question)
+- [Github actions](https://publish.obsidian.md/my-para-til/Resources/Github+Actions)
 
 ### 2024.11
 
