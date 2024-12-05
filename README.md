@@ -47,6 +47,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - 기본값 설정 시 hasOwnProperty조건문 외에 (undefined || 0) 사용 (python .get()과 같은 용도)
 - day4: 문자열 조작, 크리스마스 트리 그리기
   - Array.Prototype.join() vs string + 연산
+- day5: 해시맵 Counter, 신발 짝 맞춰 정리하기
+  - Object.groupBy()사용해도 가능, 다만 실행환경 요확인
 
 ## 세컨드브레인 - 메모 상자
 
