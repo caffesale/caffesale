@@ -51,6 +51,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - Object.groupBy()사용해도 가능, 다만 실행환경 요확인
 - day6: 2d matrix탐색 문제, dfs, bfs사용
   - 파이썬의 튜플은 hashable하나 자바스크립트는 불가능하므로 `${nr},${nc}`문자열로 변환 기록하기
+- day7: stack문제, 문자열 변형.
+- day8: 문자열 변형, at()실행 환경 요확인
+  - padStart(), join("\n") 
 
 ## 세컨드브레인 - 메모 상자
 
