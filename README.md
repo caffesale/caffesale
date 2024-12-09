@@ -53,7 +53,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - 파이썬의 튜플은 hashable하나 자바스크립트는 불가능하므로 `${nr},${nc}`문자열로 변환 기록하기
 - day7: stack문제, 문자열 변형.
 - day8: 문자열 변형, at()실행 환경 요확인
-  - padStart(), join("\n") 
+  - padStart(), join("\n")
+- day9: 2D matrix탐색, 경계 조건 검사.
+  - 중첩 for loop와 비교할 때 bigO의 차이는 없지만 indexOf()로 실행 시간은 줄일 수 있음
 
 ## 세컨드브레인 - 메모 상자
 
