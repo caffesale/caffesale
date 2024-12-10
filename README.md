@@ -56,6 +56,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - padStart(), join("\n")
 - day9: 2D matrix탐색, 경계 조건 검사.
   - 중첩 for loop와 비교할 때 bigO의 차이는 없지만 indexOf()로 실행 시간은 줄일 수 있음
+- day10: 문자열 파싱, 조건 따라 기본값 적용.
+  - (undifined || 0) + 1;
 
 ## 세컨드브레인 - 메모 상자
 
