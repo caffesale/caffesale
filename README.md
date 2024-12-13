@@ -57,7 +57,12 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day9: 2D matrix탐색, 경계 조건 검사.
   - 중첩 for loop와 비교할 때 bigO의 차이는 없지만 indexOf()로 실행 시간은 줄일 수 있음
 - day10: 문자열 파싱, 조건 따라 기본값 적용.
-  - (undifined || 0) + 1;
+  - (undifined || 0) + 1
+- day11: 문자열 수정. slice, indexOf, split등 고차함수 사용
+  - 문제 풀이 조건과는 상관없지만 toSliced()등 참조
+- day12: 문자열 값 환산.
+  - const next = idx < arr.lenght ? arr[idx + 1] : 0...등 포인터 풀이에 삼항연산자로 간략화 가능
+- day13: 2Dmatrix 이동인데 기하평면임을 고려할 것. 함수 단순화를 위해 문자열 파싱, 이동 수행으로 2회 순회하여 풀이함
 
 ## 세컨드브레인 - 메모 상자
 
