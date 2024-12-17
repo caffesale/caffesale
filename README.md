@@ -66,6 +66,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day14: 정렬, 누산 문제
 - day15: 문자열 변환. 테이블 텍스트 출력 문제
   - padEnd()로 여백 추가 가능, 파이썬과 달리 capitalize는 직접 구현
+- day16: stack문제, pop(), push()
 
 ## 세컨드브레인 - 메모 상자
 
