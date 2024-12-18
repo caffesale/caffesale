@@ -68,6 +68,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - padEnd()로 여백 추가 가능, 파이썬과 달리 capitalize는 직접 구현
 - day16: stack문제, pop(), push()
 - day17: 2D matrix 탐색. bfs가 아니라 단순 인접 셀 확인(8방향)
+- day18: 정규식 처리, 문자열 파싱. address는 소거법 추출. 단순 순회의 경우 timeout
+  - 캡쳐 그룹\(\)사용시 그룹마다 순차적으로 배열에 담아 반환
 
 ## 세컨드브레인 - 메모 상자
 
