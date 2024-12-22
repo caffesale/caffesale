@@ -73,6 +73,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day19: hashMap을 사용한 박스 사용량 산출, 경계부분 처리, 왼쪽 정렬 처리
   - 경계조건이 다소 번거로움
 - day20: 해시맵, 정렬 접근 가능
+- day21: dfs, bfs접근, tree height.
 
 ## 세컨드브레인 - 메모 상자
 
