@@ -76,6 +76,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day21: dfs, bfs접근, tree height
 - day22: combination, 정렬 조건이 추가되어 있음.
 - day23: Set을 통한 최적화, 단순 Math.max사용.
+- day24: sametree문제. height == 1조건이라 dfs까지는 필요없음.
 
 ## 세컨드브레인 - 메모 상자
 
