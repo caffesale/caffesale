@@ -77,6 +77,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - day22: combination, 정렬 조건이 추가되어 있음.
 - day23: Set을 통한 최적화, 단순 Math.max사용.
 - day24: sametree문제. height == 1조건이라 dfs까지는 필요없음.
+- day25: 문자열 파싱. 루프 탈출 조건때문에 ']'까지 모든 문자 삭제 후 진행.
+  - 일반 치환과 lazy 치환 ==> ?플래그
 
 ## 세컨드브레인 - 메모 상자
 
