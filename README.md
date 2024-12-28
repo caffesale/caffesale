@@ -91,6 +91,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [Jest.config FAQ](https://publish.obsidian.md/my-para-til/Post/Jest.config+FAQ)
 - [tsc 트랜스파일 결과와 node 모듈 해석 확인](https://publish.obsidian.md/my-para-til/Post/tsc+%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8C%8C%EC%9D%BC+%EA%B2%B0%EA%B3%BC%EC%99%80+node+%EB%AA%A8%EB%93%88+%ED%95%B4%EC%84%9D+%ED%99%95%EC%9D%B8)
 - [Big question](https://publish.obsidian.md/my-para-til/000_ZettelKasten/Big+Question)
+- [평균회귀](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%8F%89%EA%B7%A0%ED%9A%8C%EA%B7%80)
 - [Github actions](https://publish.obsidian.md/my-para-til/Resources/Github+Actions)
 - k8s
   - [k8s Object 개요](https://publish.obsidian.md/my-para-til/Resources/k8s/k8s+Objects+%EA%B0%9C%EC%9A%94)
