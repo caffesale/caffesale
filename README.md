@@ -96,6 +96,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - k8s
   - [k8s Object 개요](https://publish.obsidian.md/my-para-til/Resources/k8s/k8s+Objects+%EA%B0%9C%EC%9A%94)
   - [k8s - 로컬 실습 참고용](https://publish.obsidian.md/my-para-til/Resources/k8s/k8s+-+%EB%A1%9C%EC%BB%AC+%EC%8B%A4%EC%8A%B5+%EC%B0%B8%EA%B3%A0%EC%9A%A9)
+- [False Positive](https://publish.obsidian.md/my-para-til/000_ZettelKasten/False+Positive)
+- [진짜 전문가와 재인 기반 결정](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%84%EC%A7%9C+%EC%A0%84%EB%AC%B8%EA%B0%80%EC%99%80+%EC%9E%AC%EC%9D%B8+%EA%B8%B0%EB%B0%98+%EA%B2%B0%EC%A0%95)
+- [예측 가능성에 대한 착각](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%98%88%EC%B8%A1+%EA%B0%80%EB%8A%A5%EC%84%B1%EC%97%90+%EB%8C%80%ED%95%9C+%EC%B0%A9%EA%B0%81)
 
 ### 2024.11
 
