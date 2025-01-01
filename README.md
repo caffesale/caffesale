@@ -82,6 +82,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 ## 세컨드브레인 - 메모 상자
 
+### 2025.01
+
+- [ZettelKasten 관리법 변경 - Zotero 도입](https://publish.obsidian.md/my-para-til/Post/ZettelKasten+%EA%B4%80%EB%A6%AC%EB%B2%95+%EB%B3%80%EA%B2%BD+-+Zotero+%EB%8F%84%EC%9E%85)
+
+
 ### 2024.12
 
 - [Pareto Practice](https://publish.obsidian.md/my-para-til/Resources/Pareto+practice)
