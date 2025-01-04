@@ -85,7 +85,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 ### 2025.01
 
 - [ZettelKasten 관리법 변경 - Zotero 도입](https://publish.obsidian.md/my-para-til/Post/ZettelKasten+%EA%B4%80%EB%A6%AC%EB%B2%95+%EB%B3%80%EA%B2%BD+-+Zotero+%EB%8F%84%EC%9E%85)
-
+- [팔이 하나인 경제학자와 비용전가](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%8C%94%EC%9D%B4+%ED%95%98%EB%82%98%EC%9D%B8+%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9E%90%EC%99%80+%EB%B9%84%EC%9A%A9%EC%A0%84%EA%B0%80)
 
 ### 2024.12
 
