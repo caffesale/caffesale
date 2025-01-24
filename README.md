@@ -36,50 +36,6 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
-
-
-## [advent.js](https://adventjs.dev/): 2024.12
-
-- day1: 배열 중복 제거 및 정렬하기
-- day2: 문자열 조작, names array에 '*'로 액자 작성해주기
-  - String.Prototype.repeat(aNumber):반복 문자열 생성함수
-- day3: 조건에 맞는 레코드생성, reduce
-  - 기본값 설정 시 hasOwnProperty조건문 외에 (undefined || 0) 사용 (python .get()과 같은 용도)
-- day4: 문자열 조작, 크리스마스 트리 그리기
-  - Array.Prototype.join() vs string + 연산
-- day5: 해시맵 Counter, 신발 짝 맞춰 정리하기
-  - Object.groupBy()사용해도 가능, 다만 실행환경 요확인
-- day6: 2d matrix탐색 문제, dfs, bfs사용
-  - 파이썬의 튜플은 hashable하나 자바스크립트는 불가능하므로 `${nr},${nc}`문자열로 변환 기록하기
-- day7: stack문제, 문자열 변형.
-- day8: 문자열 변형, at()실행 환경 요확인
-  - padStart(), join("\n")
-- day9: 2D matrix탐색, 경계 조건 검사.
-  - 중첩 for loop와 비교할 때 bigO의 차이는 없지만 indexOf()로 실행 시간은 줄일 수 있음
-- day10: 문자열 파싱, 조건 따라 기본값 적용.
-  - (undifined || 0) + 1
-- day11: 문자열 수정. slice, indexOf, split등 고차함수 사용
-  - 문제 풀이 조건과는 상관없지만 toSliced()등 참조
-- day12: 문자열 값 환산.
-  - const next = idx < arr.lenght ? arr[idx + 1] : 0...등 포인터 풀이에 삼항연산자로 간략화 가능
-- day13: 2Dmatrix 이동인데 기하평면임을 고려할 것. 함수 단순화를 위해 문자열 파싱, 이동 수행으로 2회 순회하여 풀이함
-- day14: 정렬, 누산 문제
-- day15: 문자열 변환. 테이블 텍스트 출력 문제
-  - padEnd()로 여백 추가 가능, 파이썬과 달리 capitalize는 직접 구현
-- day16: stack문제, pop(), push()
-- day17: 2D matrix 탐색. bfs가 아니라 단순 인접 셀 확인(8방향)
-- day18: 정규식 처리, 문자열 파싱. address는 소거법 추출. 단순 순회의 경우 timeout
-  - 캡쳐 그룹\(\)사용시 그룹마다 순차적으로 배열에 담아 반환
-- day19: hashMap을 사용한 박스 사용량 산출, 경계부분 처리, 왼쪽 정렬 처리
-  - 경계조건이 다소 번거로움
-- day20: 해시맵, 정렬 접근 가능
-- day21: dfs, bfs접근, tree height
-- day22: combination, 정렬 조건이 추가되어 있음.
-- day23: Set을 통한 최적화, 단순 Math.max사용.
-- day24: sametree문제. height == 1조건이라 dfs까지는 필요없음.
-- day25: 문자열 파싱. 루프 탈출 조건때문에 ']'까지 모든 문자 삭제 후 진행.
-  - 일반 치환과 lazy 치환 ==> ?플래그
-
 ## 세컨드브레인 - 메모 상자
 
 ### 2025.01
@@ -93,6 +49,10 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   - [일반적인 도전과 함정](https://publish.obsidian.md/my-para-til/Project/%EB%AA%A8%EB%8D%98+%EC%9B%B9%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C+%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8+%EB%8F%84%EC%A0%84%EA%B3%BC+%ED%95%A8%EC%A0%95)
   - [분할을 위한 고려사항](https://publish.obsidian.md/my-para-til/Project/%EB%AA%A8%EB%8D%98+%EC%9B%B9%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C+%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C/%EB%B6%84%ED%95%A0%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD)
   - [팀과 이해관계자](https://publish.obsidian.md/my-para-til/Project/%EB%AA%A8%EB%8D%98+%EC%9B%B9%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C+%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C/%ED%8C%80%EA%B3%BC+%EC%9D%B4%ED%95%B4%EA%B4%80%EA%B3%84%EC%9E%90)
+- Real MySQL
+  - [isolation level](https://publish.obsidian.md/my-para-til/Project/RealMySQL/MySQL+isolation+level)
+  - [CHAR or VARCHAR](https://publish.obsidian.md/my-para-til/Project/RealMySQL/CHAR%EC%99%80+VARCHAR)
+  - [아키텍처](https://publish.obsidian.md/my-para-til/Project/RealMySQL/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 
 
 ### 2024.12
