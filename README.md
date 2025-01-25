@@ -41,6 +41,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 ### 2025.01
 
 - [ZettelKasten 관리법 변경 - Zotero 도입](https://publish.obsidian.md/my-para-til/Post/ZettelKasten+%EA%B4%80%EB%A6%AC%EB%B2%95+%EB%B3%80%EA%B2%BD+-+Zotero+%EB%8F%84%EC%9E%85)
+- [애자일 팀 나누기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC+%ED%8C%80+%EB%82%98%EB%88%84%EA%B8%B0)
 - [팔이 하나인 경제학자와 비용전가](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%8C%94%EC%9D%B4+%ED%95%98%EB%82%98%EC%9D%B8+%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9E%90%EC%99%80+%EB%B9%84%EC%9A%A9%EC%A0%84%EA%B0%80)
 - [애자일과 대리인 문제](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC%EA%B3%BC+%EB%8C%80%EB%A6%AC%EC%9D%B8+%EB%AC%B8%EC%A0%9C)
 - [물 반 컵과 틀짜기 효과](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AC%BC+%EB%B0%98+%EC%BB%B5%EA%B3%BC+%ED%8B%80%EC%A7%9C%EA%B8%B0+%ED%9A%A8%EA%B3%BC)
