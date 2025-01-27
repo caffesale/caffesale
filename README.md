@@ -46,6 +46,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [애자일과 대리인 문제](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%A0%EC%9E%90%EC%9D%BC%EA%B3%BC+%EB%8C%80%EB%A6%AC%EC%9D%B8+%EB%AC%B8%EC%A0%9C)
 - [물 반 컵과 틀짜기 효과](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AC%BC+%EB%B0%98+%EC%BB%B5%EA%B3%BC+%ED%8B%80%EC%A7%9C%EA%B8%B0+%ED%9A%A8%EA%B3%BC)
 - [목적을 위한 정렬](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AA%A9%EC%A0%81%EC%9D%84+%EC%9C%84%ED%95%9C+%EC%A0%95%EB%A0%AC(alignment))
+- [결합도와 열차사고](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B2%B0%ED%95%A9%EB%8F%84%EC%99%80+%EC%97%B4%EC%B0%A8%EC%82%AC%EA%B3%A0)
 - 모던 웹을 위한 마이크로 프런트엔드
   - [일반적인 도전과 함정](https://publish.obsidian.md/my-para-til/Project/%EB%AA%A8%EB%8D%98+%EC%9B%B9%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C+%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8+%EB%8F%84%EC%A0%84%EA%B3%BC+%ED%95%A8%EC%A0%95)
   - [분할을 위한 고려사항](https://publish.obsidian.md/my-para-til/Project/%EB%AA%A8%EB%8D%98+%EC%9B%B9%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C+%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C/%EB%B6%84%ED%95%A0%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD)
