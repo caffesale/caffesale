@@ -37,9 +37,15 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
 
+## Sad Servers - [link](https://sadservers.com/)
+
 ## 세컨드브레인 - 메모 상자
 
 ### 2025.02
+
+- 로컬 환경에 AI 설정하기
+  - [1. Docker로 Ollama 설치하기](https://publish.obsidian.md/my-para-til/Post/local_LLM/1.+Docker%EB%A1%9C+Ollama+%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- [듀얼 부팅 환경에서 Windows 단일 환경으로 롤백 & 부트로더 재설정하기](https://publish.obsidian.md/my-para-til/Post/linux/Windows+%EB%8B%A8%EC%9D%BC+%ED%99%98%EA%B2%BD%EC%9C%BC%EB%A1%9C+%EB%A1%A4%EB%B0%B1+%26+%EB%B6%80%ED%8A%B8%EB%A1%9C%EB%8D%94+%EC%9E%AC%EC%84%A4%EC%A0%95)
 
 
 
