@@ -50,6 +50,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [프로젝트와 프로덕트](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80+%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8)
 - [지속적 통합의 진정한 의미](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%80%EC%86%8D%EC%A0%81+%ED%86%B5%ED%95%A9%EC%9D%98+%EC%A7%84%EC%A0%95%ED%95%9C+%EC%9D%98%EB%AF%B8)
 - [가치와 기준, 고통](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%80%EC%B9%98%EC%99%80+%EA%B8%B0%EC%A4%80%2C+%EA%B3%A0%ED%86%B5)
+- [AWS와 오라클 클라우드 Always free tier 차이점 기록](https://publish.obsidian.md/my-para-til/Resources/Oracle+Cloud+Always+free+tier+%EB%B9%84%EA%B5%90)
 
 
 
