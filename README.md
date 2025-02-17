@@ -51,6 +51,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [지속적 통합의 진정한 의미](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%80%EC%86%8D%EC%A0%81+%ED%86%B5%ED%95%A9%EC%9D%98+%EC%A7%84%EC%A0%95%ED%95%9C+%EC%9D%98%EB%AF%B8)
 - [가치와 기준, 고통](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%80%EC%B9%98%EC%99%80+%EA%B8%B0%EC%A4%80%2C+%EA%B3%A0%ED%86%B5)
 - [AWS와 오라클 클라우드 Always free tier 차이점 기록](https://publish.obsidian.md/my-para-til/Resources/Oracle+Cloud+Always+free+tier+%EB%B9%84%EA%B5%90)
+- [TDD에 대한 실용주의자의 관점](https://publish.obsidian.md/my-para-til/000_ZettelKasten/TDD%EC%97%90+%EB%8C%80%ED%95%9C+%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%EC%9E%90%EC%9D%98+%EA%B4%80%EC%A0%90)
+- [TDD에 대한 오해](https://publish.obsidian.md/my-para-til/000_ZettelKasten/TDD%EC%97%90+%EB%8C%80%ED%95%9C+%EC%98%A4%ED%95%B4)
 
 
 
