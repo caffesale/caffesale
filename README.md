@@ -54,6 +54,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [TDD에 대한 실용주의자의 관점](https://publish.obsidian.md/my-para-til/000_ZettelKasten/TDD%EC%97%90+%EB%8C%80%ED%95%9C+%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%EC%9E%90%EC%9D%98+%EA%B4%80%EC%A0%90)
 - [TDD에 대한 오해](https://publish.obsidian.md/my-para-til/000_ZettelKasten/TDD%EC%97%90+%EB%8C%80%ED%95%9C+%EC%98%A4%ED%95%B4)
 - [두 계단을 밟아라](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%91%90+%EA%B3%84%EB%8B%A8%EC%9D%84+%EB%B0%9F%EC%95%84%EB%9D%BC)
+- [의사 소통에 Low Ceremony를 유지하라](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%9D%98%EC%82%AC+%EC%86%8C%ED%86%B5%EC%97%90+Low+Ceremony%EB%A5%BC+%EC%9C%A0%EC%A7%80%ED%95%98%EB%9D%BC.)
 
 
 
