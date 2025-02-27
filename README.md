@@ -46,7 +46,10 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - 로컬 환경에 AI 설정하기
   - [1. Docker로 Ollama 설치하기](https://publish.obsidian.md/my-para-til/Post/local_LLM/1.+Docker%EB%A1%9C+Ollama+%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
   - [2. 클라이언트 설정하기](https://publish.obsidian.md/my-para-til/Post/local_LLM/2.+%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8+%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- 마이크로 서비스
+  - [애플리케이션 패턴](https://publish.obsidian.md/my-para-til/Project/microservice/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98+%ED%8C%A8%ED%84%B4)
 - [듀얼 부팅 환경에서 Windows 단일 환경으로 롤백 & 부트로더 재설정하기](https://publish.obsidian.md/my-para-til/Post/linux/Windows+%EB%8B%A8%EC%9D%BC+%ED%99%98%EA%B2%BD%EC%9C%BC%EB%A1%9C+%EB%A1%A4%EB%B0%B1+%26+%EB%B6%80%ED%8A%B8%EB%A1%9C%EB%8D%94+%EC%9E%AC%EC%84%A4%EC%A0%95)
+
 - [개발 부서의 책임](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%9C%EB%B0%9C+%EB%B6%80%EC%84%9C%EC%9D%98+%EC%B1%85%EC%9E%84)
 - [프로젝트와 프로덕트](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80+%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8)
 - [지속적 통합의 진정한 의미](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%80%EC%86%8D%EC%A0%81+%ED%86%B5%ED%95%A9%EC%9D%98+%EC%A7%84%EC%A0%95%ED%95%9C+%EC%9D%98%EB%AF%B8)
