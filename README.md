@@ -44,6 +44,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 ### 2025.03
 
 - [서비스 국경선](https://publish.obsidian.md/my-para-til/Project/microservice/%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B5%AD%EA%B2%BD%EC%84%A0)
+- [이벤트 스토밍](https://publish.obsidian.md/my-para-til/Project/microservice/%EC%9D%B4%EB%B2%A4%ED%8A%B8+%EC%8A%A4%ED%86%A0%EB%B0%8D)
 
 ### 2025.02
 
