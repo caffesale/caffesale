@@ -46,6 +46,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [서비스 국경선](https://publish.obsidian.md/my-para-til/Project/microservice/%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B5%AD%EA%B2%BD%EC%84%A0)
 - [이벤트 스토밍](https://publish.obsidian.md/my-para-til/Project/microservice/%EC%9D%B4%EB%B2%A4%ED%8A%B8+%EC%8A%A4%ED%86%A0%EB%B0%8D)
 - [k8s 여러 서버로 구성할 때 확인사항](https://publish.obsidian.md/my-para-til/Resources/k8s/k8s+%EC%97%AC%EB%9F%AC+%EC%84%9C%EB%B2%84%EB%A1%9C+%EA%B5%AC%EC%84%B1%ED%95%A0+%EB%95%8C+%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD)
+- [next.config.js](https://publish.obsidian.md/my-para-til/Resources/nextjs/next.config.js)
 
 ### 2025.02
 
