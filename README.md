@@ -49,6 +49,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [replica set & Deployment](https://publish.obsidian.md/my-para-til/Resources/k8s/replica+set+%26+Deployment)
 - [next.config.js](https://publish.obsidian.md/my-para-til/Resources/nextjs/next.config.js)
 - [Eventually Consistency](https://publish.obsidian.md/my-para-til/Resources/Eventually+Consistency)
+- [가상의 실재](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B0%80%EC%83%81%EC%9D%98+%EC%8B%A4%EC%9E%AC)
+- [관계성 증가 공식](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B4%80%EA%B3%84%EC%84%B1+%EC%A6%9D%EA%B0%80+%EA%B3%B5%EC%8B%9D)
 
 ### 2025.02
 
