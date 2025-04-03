@@ -41,6 +41,10 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 ## 세컨드브레인 - 메모 상자
 
+### 2025.04
+
+- [칸막이, 관료제, 도서관과 제텔](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%B9%B8%EB%A7%89%EC%9D%B4%2C+%EA%B4%80%EB%A3%8C%EC%A0%9C%2C+%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC+%EC%A0%9C%ED%85%94)
+
 ### 2025.03
 
 - [서비스 국경선](https://publish.obsidian.md/my-para-til/Project/microservice/%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B5%AD%EA%B2%BD%EC%84%A0)
