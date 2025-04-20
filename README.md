@@ -45,6 +45,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 - [칸막이, 관료제, 도서관과 제텔](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%B9%B8%EB%A7%89%EC%9D%B4%2C+%EA%B4%80%EB%A3%8C%EC%A0%9C%2C+%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC+%EC%A0%9C%ED%85%94)
 - [상호주관적 보편 질서](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%83%81%ED%98%B8%EC%A3%BC%EA%B4%80%EC%A0%81+%EB%B3%B4%ED%8E%B8+%EC%A7%88%EC%84%9C+-+%EB%8F%88)
+- [얽혀버린 코드 풀기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%96%BD%ED%98%80%EB%B2%84%EB%A6%B0+%EC%BD%94%EB%93%9C+%ED%92%80%EA%B8%B0)
 
 ### 2025.03
 
