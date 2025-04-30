@@ -48,6 +48,8 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [얽혀버린 코드 풀기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%96%BD%ED%98%80%EB%B2%84%EB%A6%B0+%EC%BD%94%EB%93%9C+%ED%92%80%EA%B8%B0)
 - [학습을 위한 나침반](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%95%99%EC%8A%B5%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%82%98%EC%B9%A8%EB%B0%98)
 - [어떤 때는 젖은 것도 괜찮다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%96%B4%EB%96%A4+%EB%95%8C%EB%8A%94+%EC%A0%96%EC%9D%80+%EA%B2%83%EB%8F%84+%EA%B4%9C%EC%B0%AE%EB%8B%A4)
+- [학습 부채와 마감기한의 역설](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%ED%95%99%EC%8A%B5+%EB%B6%80%EC%B1%84%EC%99%80+%EB%A7%88%EA%B0%90%EA%B8%B0%ED%95%9C%EC%9D%98+%EC%97%AD%EC%84%A4)
+- [집중배당금과 터널링 세금](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%91%EC%A4%91%EB%B0%B0%EB%8B%B9%EA%B8%88%EA%B3%BC+%ED%84%B0%EB%84%90%EB%A7%81+%EC%84%B8%EA%B8%88)
 
 ### 2025.03
 
