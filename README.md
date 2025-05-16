@@ -46,6 +46,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [아이젠하워 1사분면의 역설](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C+1%EC%82%AC%EB%B6%84%EB%A9%B4%EC%9D%98+%EC%97%AD%EC%84%A4)
 - [아이젠하워 2사분면의 역설](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C+2%EC%82%AC%EB%B6%84%EB%A9%B4%EC%9D%98+%EC%97%AD%EC%84%A4)
 - [Zotero 도입 부작용과 Literature Note작성 효과 복기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/Zotero+%EB%8F%84%EC%9E%85+%EB%B6%80%EC%9E%91%EC%9A%A9%EA%B3%BC+Literature+Note%EC%9E%91%EC%84%B1+%ED%9A%A8%EA%B3%BC+%EB%B3%B5%EA%B8%B0)
+- [왜 백로그는 스토리 포인트로 측정하는가?](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%99%9C+%EB%B0%B1%EB%A1%9C%EA%B7%B8%EB%8A%94+%EC%8A%A4%ED%86%A0%EB%A6%AC+%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A1%9C+%EC%B8%A1%EC%A0%95%ED%95%98%EB%8A%94%EA%B0%80%3F)
+- [모듈화하는 소프트웨어](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EB%8A%94+%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
+- [성능도 트레이드오프 대상이다](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%84%B1%EB%8A%A5%EB%8F%84+%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%98%A4%ED%94%84+%EB%8C%80%EC%83%81%EC%9D%B4%EB%8B%A4)
+- [변하고 싶다면 쉬운 길을 찾아라](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%B3%80%ED%95%98%EA%B3%A0+%EC%8B%B6%EB%8B%A4%EB%A9%B4+%EC%89%AC%EC%9A%B4+%EA%B8%B8%EC%9D%84+%EC%B0%BE%EC%95%84%EB%9D%BC)
+- [나를 위한 작고 사악한 계획](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EB%82%98%EB%A5%BC+%EC%9C%84%ED%95%9C+%EC%9E%91%EA%B3%A0+%EC%82%AC%EC%95%85%ED%95%9C+%EA%B3%84%ED%9A%8D)
 
 ### 2025.04
 
