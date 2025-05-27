@@ -55,6 +55,9 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [지연평가와 이터러블이터레이터](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%A7%80%EC%97%B0%ED%8F%89%EA%B0%80%EC%99%80+%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0)
 - 애자일 리부트
   - [스프린트의 목적은 사실 마일스톤 관리가 아닙니다](https://publish.obsidian.md/my-para-til/Post/%EC%95%A0%EC%9E%90%EC%9D%BC+%EB%A6%AC%EB%B6%80%ED%8A%B8+-+%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EC%9D%98+%EB%AA%A9%EC%A0%81%EC%9D%80+%EC%82%AC%EC%8B%A4+%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4+%EA%B4%80%EB%A6%AC%EA%B0%80+%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4)
+- 멀티패러다임 프로그래밍
+  - [비동기 반복작업 - 함수형과 명령형](https://publish.obsidian.md/my-para-til/Resources/%EB%A9%80%ED%8B%B0%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B9%84%EB%8F%99%EA%B8%B0+%EB%B0%98%EB%B3%B5%EC%9E%91%EC%97%85+-+%ED%95%A8%EC%88%98%ED%98%95%EA%B3%BC+%EB%AA%85%EB%A0%B9%ED%98%95)
+  - [리스트 프로세싱 패턴화](https://publish.obsidian.md/my-para-til/Resources/%EB%A9%80%ED%8B%B0%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%A6%AC%EC%8A%A4%ED%8A%B8+%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1+%ED%8C%A8%ED%84%B4%ED%99%94)
 
 ### 2025.04
 
