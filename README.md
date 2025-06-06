@@ -41,6 +41,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 
 ## 세컨드브레인 - 메모 상자
 
+### 2025.06
+
+- [type vs interface](https://publish.obsidian.md/my-para-til/000_ZettelKasten/Type+vs+Interface+-+Typescript)
+- [이진 탐색](https://publish.obsidian.md/my-para-til/AreaOfResponse/team-note/%EB%AC%B8%EC%A0%9C%EB%85%B8%ED%8A%B8/%EC%9D%B4%EC%A7%84+%ED%83%90%EC%83%89)
+
 ### 2025.05
 - [고릴라와 케이크와 상재적 부하](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B3%A0%EB%A6%B4%EB%9D%BC%EC%99%80+%EC%BC%80%EC%9D%B4%ED%81%AC+%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%83%81%EC%9E%AC%ED%95%98%EB%8A%94+%EC%9D%B8%EC%A7%80%EC%A0%81+%EB%B6%80%ED%95%98)
 - [아이젠하워 1사분면의 역설](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C+1%EC%82%AC%EB%B6%84%EB%A9%B4%EC%9D%98+%EC%97%AD%EC%84%A4)
