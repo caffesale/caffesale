@@ -47,6 +47,7 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
 - [이진 탐색](https://publish.obsidian.md/my-para-til/AreaOfResponse/team-note/%EB%AC%B8%EC%A0%9C%EB%85%B8%ED%8A%B8/%EC%9D%B4%EC%A7%84+%ED%83%90%EC%83%89)
 - [Typescript Error Handling](https://publish.obsidian.md/my-para-til/000_ZettelKasten/Typescript+Error+Handling)
 - [스프린트 계획 회의는 어떻게 해야할까?](https://publish.obsidian.md/my-para-til/Post/HowToAgile/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8+1+-+%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8+%EA%B3%84%ED%9A%8D+%ED%9A%8C%EC%9D%98%EB%8A%94+%EC%96%B4%EB%96%BB%EA%B2%8C+%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%3F)
+- [매직 넘버 회피하기](https://publish.obsidian.md/my-para-til/000_ZettelKasten/Design+Hack+-+%EB%A7%A4%EC%A7%81+%EB%84%98%EB%B2%84+%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0)
 
 ### 2025.05
 - [고릴라와 케이크와 상재적 부하](https://publish.obsidian.md/my-para-til/000_ZettelKasten/%EA%B3%A0%EB%A6%B4%EB%9D%BC%EC%99%80+%EC%BC%80%EC%9D%B4%ED%81%AC+%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%83%81%EC%9E%AC%ED%95%98%EB%8A%94+%EC%9D%B8%EC%A7%80%EC%A0%81+%EB%B6%80%ED%95%98)
