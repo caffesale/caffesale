@@ -37,9 +37,11 @@ Typescript, Next.js기반의 프론트엔드 개발자입니다.
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
 
-## Sad Servers - [link](https://sadservers.com/)
-
 ## 세컨드브레인 - 메모 상자
+
+### 2025.07
+
+- [코드리뷰]()
 
 ### 2025.06
 
